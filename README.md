@@ -4,6 +4,14 @@
 
 A mobile app for yuri fans. Written in TypeScript and React Native.
 
+## Features
+
+- [ ] アニメ情報
+- [ ] 漫画情報
+- [ ] キャラクター情報
+- [ ] イベント情報
+- [ ] ニュース
+
 ## Development
 
 ### Prerequisites
