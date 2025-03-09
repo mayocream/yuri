@@ -25,6 +25,7 @@ export default function TabLayout() {
         headerTitleStyle: {
           fontFamily: 'NotoSansJP_700Bold',
         },
+        tabBarActiveTintColor: '#F06292',
       }}
     >
       <Tabs.Screen
@@ -32,7 +33,6 @@ export default function TabLayout() {
         options={{
           headerShown: false,
           tabBarLabel: 'ホーム',
-          tabBarActiveTintColor: '#F06292',
           tabBarIcon: ({ size, color }) => <Home size={size} color={color} />,
         }}
       />
@@ -41,7 +41,6 @@ export default function TabLayout() {
         options={{
           title: '設定',
           tabBarLabel: '設定',
-          tabBarActiveTintColor: '#F06292',
           tabBarIcon: ({ size, color }) => (
             <Settings size={size} color={color} />
           ),
