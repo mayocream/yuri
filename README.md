@@ -2,6 +2,8 @@
 
 百合アプリ。百合はレディの嗜みですわー。
 
+A mobile app for yuri fans. Written in TypeScript and React Native.
+
 ## Development
 
 ### Prerequisites
@@ -12,3 +14,7 @@
 ### WSL
 
 Please refer to [Running a local Expo development environment in Windows Subsystem for Linux (WSL)](https://github.com/expo/fyi/blob/main/wsl.md) for setting up WSL.
+
+## Credits
+
+- [bangumi-data](https://github.com/bangumi-data/bangumi-data)
