@@ -1,4 +1,4 @@
-package com.anonymous.yuri
+package rocks.mayo.yuri
 import expo.modules.splashscreen.SplashScreenManager
 
 import android.os.Build

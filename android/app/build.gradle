@@ -86,13 +86,13 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace 'com.anonymous.yuri'
+    namespace 'rocks.mayo.yuri'
     defaultConfig {
-        applicationId 'com.anonymous.yuri'
+        applicationId 'rocks.mayo.yuri'
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
-        versionName "1.0.0"
+        versionName "0.1.0"
     }
     signingConfigs {
         debug {

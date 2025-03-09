@@ -1,4 +1,4 @@
-package com.anonymous.yuri
+package rocks.mayo.yuri
 
 import android.app.Application
 import android.content.res.Configuration

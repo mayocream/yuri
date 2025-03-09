@@ -1,23 +1,23 @@
 {
   "expo": {
-    "name": "yuri",
+    "name": "百合",
     "slug": "yuri",
-    "version": "1.0.0",
+    "version": "0.1.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "yuri",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.yuri"
+      "bundleIdentifier": "rocks.mayo.yuri"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.anonymous.yuri"
+      "package": "rocks.mayo.yuri"
     },
     "web": {
       "bundler": "metro",
