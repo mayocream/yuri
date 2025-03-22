@@ -1,0 +1,197 @@
+{
+  "date": "2025-10-01",
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/c7/475663_96CUO.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/c7/475663_96CUO.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/11/c7/475663_96CUO.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/c7/475663_96CUO.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/c7/475663_96CUO.jpg"
+  },
+  "summary": "双見は駆け出しの少女漫画家。\r\nクールな担当編集や、\r\n頼もしいアシスタントらの\r\n力を借りて、念願の将棋漫画『昴へ』の連載を、\r\nようやくスタートさせることができたけど……\r\n\r\nストレスでお腹をやられて、1話から締切を延ばしてもらったり。\r\nネームが進まず、深夜まで机にかじりつく羽目になったり。\r\n夜食で太っちゃったり、\r\nよからぬ妄想が止まらなかったり……",
+  "name": "笑顔のたえない職場です。",
+  "name_cn": "欢迎来到笑容不断的职场。",
+  "tags": [
+    {
+      "name": "TV",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "Voil",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "伊藤美来",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "夏吉ゆうこ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "井上美緒",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木薫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "职场",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "铃木薰",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "雨宮天",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "欢迎来到笑容不断的职场。"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "这里是充满笑容的职场。"
+        },
+        {
+          "v": "Egao no Taenai Shokuba desu."
+        },
+        {
+          "v": "A Workplace Where You Can't Help But Smile"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "2025年10月"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://egatae.com/"
+    },
+    {
+      "key": "导演",
+      "value": "鈴木薫"
+    },
+    {
+      "key": "Copyright",
+      "value": "©くずしろ・講談社／「笑顔のたえない職場です。」製作委員会"
+    },
+    {
+      "key": "原作",
+      "value": "くずしろ（講談社「コミックDAYS」連載）"
+    },
+    {
+      "key": "人物设定",
+      "value": "宮井加奈"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 2,
+    "wish": 64,
+    "collect": 1,
+    "doing": 0
+  },
+  "id": 475663,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "漫画改",
+    "职场"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

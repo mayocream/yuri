@@ -1,0 +1,165 @@
+{
+  "date": "1998-12-16",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/b1/154141_K7Z3W.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/b1/154141_K7Z3W.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/3c/b1/154141_K7Z3W.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/b1/154141_K7Z3W.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/b1/154141_K7Z3W.jpg"
+  },
+  "summary": "1998年—1999年，宝丽金发行了三卷的OVA，名为“ガラスの仮面 千の仮面を持つ少女”，讲述故事开始的一小部分。片长约140分钟。",
+  "name": "ガラスの仮面 千の仮面を持つ少女",
+  "name_cn": "玻璃假面",
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "1998",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "东京movie",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "小杉十郎太",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "1998年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "東京ムービー",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "中庸",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "表",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "¬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "松井菜桜子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "绪方惠美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "励志",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小林常夫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "緒方恵美",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "玻璃假面"
+    },
+    {
+      "key": "话数",
+      "value": "3"
+    },
+    {
+      "key": "发售日",
+      "value": "1998年12月16日"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 2,
+      "7": 8,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.6
+  },
+  "total_episodes": 3,
+  "collection": {
+    "on_hold": 3,
+    "dropped": 7,
+    "wish": 30,
+    "collect": 35,
+    "doing": 0
+  },
+  "id": 154141,
+  "eps": 3,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

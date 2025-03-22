@@ -1,0 +1,215 @@
+{
+  "date": "1984-09-10",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/f8/ca/102000_g2FEC.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f8/ca/102000_g2FEC.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/f8/ca/102000_g2FEC.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f8/ca/102000_g2FEC.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ca/102000_g2FEC.jpg"
+  },
+  "summary": "    第1作目で1984年9月10日に発売。富本起矢（現・真行寺たつや）が演出・作画監督を務める。\r\n    厳格な全寮制のミッション系女子校に転入したリエは、才色兼備な生徒会長のナオミに憧れを抱く。リエとナオミは愛し合うようになるが、リエはナオミとミドリのペットとして従うよう誓約させられる。",
+  "name": "くりいむレモン パート2 エスカレーション 〜今夜はハードコア〜",
+  "name_cn": "奶油柠檬 第二部分 冲突升级 今晚重口味",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 86,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "1984",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "奶油柠檬",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "A.P.P.P.",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "真行寺たつや",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "经典",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "SuperStufA.P.P.P.",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "剧情",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "真行寺起矢",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "里",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "R18",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Escalation",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "存盘",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1984年9月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "成人动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "どうが",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20世纪里番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创里番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SuperStuf",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1980-1989",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Super_Stuf_A.P.P.P.",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "及川ひとみ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "[H]",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "奶油柠檬 第二部分 冲突升级 今晚重口味"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "发售日",
+      "value": "1984年9月10日"
+    }
+  ],
+  "rating": {
+    "rank": 5976,
+    "total": 96,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 8,
+      "5": 22,
+      "6": 34,
+      "7": 20,
+      "8": 6,
+      "9": 1,
+      "10": 2
+    },
+    "score": 5.9
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 18,
+    "dropped": 14,
+    "wish": 104,
+    "collect": 172,
+    "doing": 8
+  },
+  "id": 102000,
+  "eps": 1,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

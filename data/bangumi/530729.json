@@ -1,0 +1,169 @@
+{
+  "date": null,
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/0b/530729_COywR.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/0b/530729_COywR.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/cf/0b/530729_COywR.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/0b/530729_COywR.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/0b/530729_COywR.jpg"
+  },
+  "summary": "",
+  "name": "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance",
+  "name_cn": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance",
+  "tags": [
+    {
+      "name": "TV",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女奈叶",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "奈叶",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "完全新作",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "滨名孝行",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SevenArcs",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "水树奈奈",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "魔炮",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "都筑真纪",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "魔法少女奈叶 EXCEEDS Gun Blaze Vengeance"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Magical Girl Lyrical Nanoha EXCEEDS Gun Blaze Vengeance"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://king-cr.jp/nanoha/20th/"
+    },
+    {
+      "key": "导演",
+      "value": "浜名孝行"
+    },
+    {
+      "key": "Copyright",
+      "value": "©NANOHA 20th PROJECT"
+    },
+    {
+      "key": "原作",
+      "value": "都築真紀"
+    },
+    {
+      "key": "人物设定",
+      "value": "新垣一成"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 1
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 1,
+    "wish": 86,
+    "collect": 3,
+    "doing": 4
+  },
+  "id": 530729,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

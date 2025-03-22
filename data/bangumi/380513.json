@@ -1,0 +1,205 @@
+{
+  "date": "2021-11-30",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/d1/a7/380513_suSyJ.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d1/a7/380513_suSyJ.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/d1/a7/380513_suSyJ.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d1/a7/380513_suSyJ.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/d1/a7/380513_suSyJ.jpg"
+  },
+  "summary": "スマートフォン向けゲーム『バンドリ！ ガールズバンドパーティ！』で実施されたアーティストタイアップ第１弾 Poppin'Party×Ayase！\r\nAyaseさんにより作詞作曲されたPoppin'Partyのオリジナル楽曲『イントロダクション』のアニメーションMVになります♪",
+  "name": "イントロダクション",
+  "name_cn": "Introduction",
+  "tags": [
+    {
+      "name": "2021",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "SCOOTERFILMS",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "W-toonStudio",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "宫岛星矢",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "MV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "BanGDream",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "SCOOTER_FILMS",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "5分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "手游改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "宮嶋星矢",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "Introduction"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "放送开始",
+      "value": "2021年11月30日"
+    },
+    {
+      "key": "播放电视台",
+      "value": "YouTube"
+    },
+    {
+      "key": "Copyright",
+      "value": "©BDP ©CraftEgg ©BUSHI"
+    },
+    {
+      "key": "导演",
+      "value": "宮嶋星矢"
+    },
+    {
+      "key": "人物设定",
+      "value": "宮嶋星矢"
+    },
+    {
+      "key": "人物原案",
+      "value": "ひと和"
+    },
+    {
+      "key": "原画",
+      "value": "宮嶋星矢、雛田ゆいち、暇木けい、烏羽839、湯野さわこ、茶山もふこ、斎藤亮太、佐久間瑞希、吉野美貴、臼田美夫、奈津橋未来、熊谷勇也、中澤一廣"
+    },
+    {
+      "key": "补间动画",
+      "value": "リバイバル"
+    },
+    {
+      "key": "上色",
+      "value": "リバイバル"
+    },
+    {
+      "key": "美术监督",
+      "value": "山口雅範(スタジオホワイト)"
+    },
+    {
+      "key": "背景美术",
+      "value": "スタジオホワイト、PINE JAM"
+    },
+    {
+      "key": "摄影监督",
+      "value": "林昌宏"
+    },
+    {
+      "key": "摄影",
+      "value": "大図佑"
+    },
+    {
+      "key": "制片人",
+      "value": "青木泰寛"
+    },
+    {
+      "key": "制作统筹",
+      "value": "内海洋"
+    },
+    {
+      "key": "动画制作",
+      "value": "SCOOTER FILMS（ダブトゥーンスタジオ）"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 20,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 4,
+      "6": 8,
+      "7": 5,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 3,
+    "dropped": 4,
+    "wish": 6,
+    "collect": 48,
+    "doing": 0
+  },
+  "id": 380513,
+  "eps": 1,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

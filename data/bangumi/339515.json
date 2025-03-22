@@ -1,0 +1,257 @@
+{
+  "date": null,
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/45/a6/339515_kxl3k.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/45/a6/339515_kxl3k.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/45/a6/339515_kxl3k.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/45/a6/339515_kxl3k.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/a6/339515_kxl3k.jpg"
+  },
+  "summary": "",
+  "name": "幼女戦記Ⅱ",
+  "name_cn": "幼女战记Ⅱ",
+  "tags": [
+    {
+      "name": "TV",
+      "count": 56,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "战争",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "幼女战记",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "NUT",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "穿越",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "上村泰",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "性转",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "未开播",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "猪原健太",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "悠木碧",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "军事",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "没有谭雅我要死了",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "幼女戰記",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "將上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "期待ing",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "分割商法",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "幼女战记Ⅱ"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "谭雅战记Ⅱ"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://youjo-senki.jp"
+    },
+    {
+      "key": "导演",
+      "value": "上村泰"
+    },
+    {
+      "key": "原作",
+      "value": "カルロ・ゼン (「幼女戦記」／KADOKAWA刊)"
+    },
+    {
+      "key": "人物原案",
+      "value": "篠月しのぶ"
+    },
+    {
+      "key": "人物设定",
+      "value": "細越裕治"
+    },
+    {
+      "key": "总作画监督",
+      "value": "細越裕治"
+    },
+    {
+      "key": "脚本",
+      "value": "猪原健太"
+    },
+    {
+      "key": "製作",
+      "value": "幼女戦記2製作委員会"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 52,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 7,
+      "7": 15,
+      "8": 26,
+      "9": 1,
+      "10": 2
+    },
+    "score": 7.5
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 15,
+    "dropped": 9,
+    "wish": 897,
+    "collect": 123,
+    "doing": 27
+  },
+  "id": 339515,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "小说改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

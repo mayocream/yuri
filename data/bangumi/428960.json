@@ -1,0 +1,167 @@
+{
+  "date": "2023-04-08",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/9c/99/428960_21Tkw.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9c/99/428960_21Tkw.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/9c/99/428960_21Tkw.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9c/99/428960_21Tkw.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/9c/99/428960_21Tkw.jpg"
+  },
+  "summary": "株式会社KADOKAWA（本社：東京都千代田区、代表取締役社長：夏野剛）が展開する、音声専門コンテンツレーベル“G’sこえけん”は、新音声企画「ビジュアルオーディオドラマ」シリーズを立ち上げ、その第１弾として『結城友奈は勇者である 勇者史異聞 芙蓉友奈は語部となる』を4月8日（土）21時から配信いたします。",
+  "name": "結城友奈は勇者である 勇者史異聞 芙蓉友奈は語部となる",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "短篇",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "结城友奈是勇者",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年4月",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "花澤香菜",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "G’sこえけん",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年春",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "可独立观赏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "三森すずこ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "虐妹",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "花守ゆみり",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "话数",
+      "value": "7"
+    },
+    {
+      "key": "放送开始",
+      "value": "2023年4月8日"
+    },
+    {
+      "key": "放送星期",
+      "value": "星期六"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://gs-ch.com/"
+    },
+    {
+      "key": "播放电视台",
+      "value": "G'sチャンネル"
+    },
+    {
+      "key": "其他电视台",
+      "value": "YouTube"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 2,
+      "6": 6,
+      "7": 4,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.3
+  },
+  "total_episodes": 8,
+  "collection": {
+    "on_hold": 9,
+    "dropped": 10,
+    "wish": 107,
+    "collect": 38,
+    "doing": 19
+  },
+  "id": 428960,
+  "eps": 7,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

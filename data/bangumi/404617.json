@@ -1,0 +1,172 @@
+{
+  "date": "2022-10-09",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/f0/80/404617_4FBFw.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f0/80/404617_4FBFw.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/f0/80/404617_4FBFw.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f0/80/404617_4FBFw.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/f0/80/404617_4FBFw.jpg"
+  },
+  "summary": "DIALOGUE＋『1000万回ハグなんだ』 アニメMV",
+  "name": "1000万回ハグなんだ",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "短片",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "CloverWorks",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "MV",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "竹下良平",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "放送开始",
+      "value": "2022年10月9日"
+    },
+    {
+      "key": "导演",
+      "value": "竹下良平"
+    },
+    {
+      "key": "公开",
+      "value": "2022年10月9日（event公开）"
+    },
+    {
+      "key": "主题歌作词",
+      "value": "田淵智也"
+    },
+    {
+      "key": "主题歌作曲",
+      "value": "睦月周平"
+    },
+    {
+      "key": "主题歌编曲",
+      "value": "睦月周平"
+    },
+    {
+      "key": "主题歌演出",
+      "value": "DIALOGUE+"
+    },
+    {
+      "key": "原画",
+      "value": "植田华菜子"
+    },
+    {
+      "key": "动画检查",
+      "value": "中村未奈美"
+    },
+    {
+      "key": "补间动画",
+      "value": "CloverWorks（谷口梓纱、早川未那、浦川涼香、岡本敦紀）"
+    },
+    {
+      "key": "上色",
+      "value": "CloverWorks（梶山翼、岩渕里菜、鞠川未来、原恭子、辻桃佳、奥原薰）"
+    },
+    {
+      "key": "背景美术",
+      "value": "MAPPA（黄思敏、奈木野智希、李博、西野友葵）"
+    },
+    {
+      "key": "2D设定",
+      "value": "本仓悠介（CloverWorks）"
+    },
+    {
+      "key": "文艺协力",
+      "value": "加藤穗乃伽"
+    },
+    {
+      "key": "制作统括",
+      "value": "福岛祐一"
+    },
+    {
+      "key": "美术监督",
+      "value": "赤木寿子"
+    },
+    {
+      "key": "美术管理",
+      "value": "西木彩夏"
+    },
+    {
+      "key": "人物设定",
+      "value": "長澤翔子"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 33,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 9,
+      "6": 17,
+      "7": 1,
+      "8": 3,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.9
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 1,
+    "dropped": 5,
+    "wish": 11,
+    "collect": 69,
+    "doing": 2
+  },
+  "id": 404617,
+  "eps": 1,
+  "meta_tags": [],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

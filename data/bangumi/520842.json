@@ -1,0 +1,220 @@
+{
+  "date": "2025-10-01",
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/2c/af/520842_4dV7F.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/2c/af/520842_4dV7F.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/2c/af/520842_4dV7F.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/2c/af/520842_4dV7F.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/2c/af/520842_4dV7F.jpg"
+  },
+  "summary": "「私は君を喰べに来ました。」　突如現れた人魚の少女・汐莉は海辺の街に独り暮らす比名子の手を取り、優しく語りかける。比名子の持つ血肉は、特別に美味しいという。それは数多の妖怪を惹きつけるほどに…。汐莉は、成熟し、最高の状態を迎えるまで比名子を守り“いずれ自分が喰べる”と約束する。比名子の胸には「このひとなら私の願いを叶えられるかもしれない」という切なる想いが浮かび─。",
+  "name": "私を喰べたい、ひとでなし",
+  "name_cn": "对我垂涎欲滴的非人少女",
+  "tags": [
+    {
+      "name": "百合",
+      "count": 48,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "StudioLings",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "铃木裕辅",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年10月",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "葛谷直行",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木裕輔",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "上田麗奈",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "広田光毅",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "石川由依",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "放送开始：2025年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合的启蒙之作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "广田光毅",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ファイルーズあい",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオリングス",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "对我垂涎欲滴的非人少女"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "想吃掉我的非人少女"
+        },
+        {
+          "v": "想要吃掉我的非人类"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "2025年10月"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://wata-tabe.com/"
+    },
+    {
+      "key": "Copyright",
+      "value": "©2024 苗川 采/KADOKAWA/わたたべ製作委員会"
+    },
+    {
+      "key": "原作",
+      "value": "苗川采(KADOKAWA「電撃マオウ」連載)"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 5,
+    "wish": 408,
+    "collect": 3,
+    "doing": 10
+  },
+  "id": 520842,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "漫画改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

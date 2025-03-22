@@ -1,0 +1,171 @@
+{
+  "date": null,
+  "platform": "TV",
+  "images": {
+    "small": "",
+    "grid": "",
+    "large": "",
+    "medium": "",
+    "common": ""
+  },
+  "summary": "",
+  "name": "魔法少女リリカルなのはViVid 2期",
+  "name_cn": "魔法少女奈叶ViVid 2期",
+  "tags": [
+    {
+      "name": "TV",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女奈叶ViVid",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2017",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "续期",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女奈叶",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女リリカルなのは",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "伪",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "二〇一七年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "水树奈奈",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "A1",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "补番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2期",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "魔法少女奈叶ViVid 2期"
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "备注",
+      "value": "现企划状态不明"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 3,
+      "6": 5,
+      "7": 2,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.4
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 7,
+    "dropped": 12,
+    "wish": 105,
+    "collect": 35,
+    "doing": 3
+  },
+  "id": 186939,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "漫画改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

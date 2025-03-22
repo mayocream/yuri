@@ -1,0 +1,126 @@
+{
+  "date": "2016-02-18",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/96/181722_a1rt6.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/96/181722_a1rt6.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/bb/96/181722_a1rt6.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/96/181722_a1rt6.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/96/181722_a1rt6.jpg"
+  },
+  "summary": "サンリオ・セガトイズ原作「ジュエルペット」の新作ショートアニメ「ジュエルペットあたっくちゃんす!? 」\r\n",
+  "name": "ジュエルペットあたっくちゃんす!?",
+  "name_cn": "宝石宠物 Attack Chance!?",
+  "tags": [
+    {
+      "name": "2016",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "AICProject",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "セイバープロジェクト",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年一月番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "幼女向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年2月",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "宝石宠物 Attack Chance!?"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Jewelpet Attack Chance!?"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "3"
+    },
+    {
+      "key": "放送开始",
+      "value": "2016-02-18"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://www.jewelpet.jp/"
+    },
+    {
+      "key": "播放结束",
+      "value": "2016-05-30"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 3,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.8
+  },
+  "total_episodes": 3,
+  "collection": {
+    "on_hold": 3,
+    "dropped": 11,
+    "wish": 5,
+    "collect": 14,
+    "doing": 0
+  },
+  "id": 181722,
+  "eps": 3,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

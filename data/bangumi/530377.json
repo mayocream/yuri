@@ -1,0 +1,210 @@
+{
+  "date": null,
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/f8/ee/530377_B3tg1.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f8/ee/530377_B3tg1.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/f8/ee/530377_B3tg1.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f8/ee/530377_B3tg1.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/f8/ee/530377_B3tg1.jpg"
+  },
+  "summary": "",
+  "name": "ウマ娘 シンデレラグレイ 第2クール",
+  "name_cn": "赛马娘 芦毛灰姑娘 第2部分",
+  "tags": [
+    {
+      "name": "赛马娘",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "CygamesPictures",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "伊藤祐毅",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "运动",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "三浦武弘",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "cygames",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "分割放送",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "成长",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "作画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "赛马娘 芦毛灰姑娘 第2部分"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "赛马娘 栗帽灰姑娘 第2部分"
+        },
+        {
+          "v": "赛马娘 Cinderella Gray 第2部分"
+        },
+        {
+          "v": "Uma Musume Cinderella Gray Part 2"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://anime-cinderellagray.com/"
+    },
+    {
+      "key": "播放电视台",
+      "value": "TBS系28局"
+    },
+    {
+      "key": "导演",
+      "value": "伊藤祐毅・みうらたけひろ"
+    },
+    {
+      "key": "Copyright",
+      "value": "©久住太陽・杉浦理史＆Pita・伊藤隼之介／ 集英社・ウマ娘 シンデレラグレイ製作委員会©Cygames, Inc."
+    },
+    {
+      "key": "原作",
+      "value": "Cygames；漫画：久住太陽、脚本：杉浦理史、漫画企画构成：伊藤隼之介（集英社 「週刊ヤングジャンプ」連載）"
+    },
+    {
+      "key": "人物设定",
+      "value": "宮原拓也・佐々木啓悟"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 3,
+    "dropped": 2,
+    "wish": 136,
+    "collect": 1,
+    "doing": 6
+  },
+  "id": 530377,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "漫画改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

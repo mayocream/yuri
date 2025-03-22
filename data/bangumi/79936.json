@@ -1,0 +1,202 @@
+{
+  "date": "1985-01-10",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/97/18/79936_27056.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/97/18/79936_27056.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/97/18/79936_27056.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/97/18/79936_27056.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/97/18/79936_27056.jpg"
+  },
+  "summary": "ストーリー・ナミ、アイコ、ユカは仲良しの３人組だ。ある日彼女たちがシャワー室でじゃれ合っている間に、ユカのお小遣いが盗まれてしまって・・・・",
+  "name": "美少女コミック ロリコン・エンジェル ～蜜の味～",
+  "name_cn": "萝莉控天使 蜜之味",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 40,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "人形直升机",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "1985",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "vbn",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "20世纪里番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "存盘",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "形直升机",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "どうが",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1980-1989",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "轻bg",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1980s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "BG",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "纯爱",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "人",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "步兵里番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "111111",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "假百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "無修正",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "萝莉控天使 蜜之味"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "美少女コミック ロリコンエンジェル ～蜜の味～"
+        },
+        {
+          "v": "Lolikon Angel"
+        },
+        {
+          "v": "Lolicon Angel"
+        },
+        {
+          "v": "Bishoujo Comic Lolicon Angel: Mitsu no Aji"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "发售日",
+      "value": "1985年1月10日"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 38,
+    "count": {
+      "1": 2,
+      "2": 4,
+      "3": 7,
+      "4": 9,
+      "5": 12,
+      "6": 3,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 7,
+    "dropped": 12,
+    "wish": 35,
+    "collect": 53,
+    "doing": 5
+  },
+  "id": 79936,
+  "eps": 1,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

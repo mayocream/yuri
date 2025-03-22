@@ -1,0 +1,156 @@
+{
+  "date": "2023-08-27",
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/d2/e2/452425_c2k13.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d2/e2/452425_c2k13.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/d2/e2/452425_c2k13.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d2/e2/452425_c2k13.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/d2/e2/452425_c2k13.jpg"
+  },
+  "summary": "「虎狼来」ツアーファイナル記念◎MV公開",
+  "name": "虎狼来",
+  "name_cn": "虎狼来",
+  "tags": [
+    {
+      "name": "短片",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "MV",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "りく",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "短片与MV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "虎狼来"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "虎狼来 (Kororon) - Eve Music Video"
+        }
+      ]
+    },
+    {
+      "key": "上映年度",
+      "value": "2023年8月27日"
+    },
+    {
+      "key": "片长",
+      "value": "03:55"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "导演",
+      "value": "りく"
+    },
+    {
+      "key": "人物设定",
+      "value": "りく"
+    },
+    {
+      "key": "原画",
+      "value": "刀、HIOKI、鈴木紗英子、庄一、吉邉尚希、10十10、新沼拓也、刈谷仁美、駿"
+    },
+    {
+      "key": "链接",
+      "value": [
+        {
+          "k": "YouTube",
+          "v": "https://www.youtube.com/watch?v=Gw96jPDtoDQ"
+        }
+      ]
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 27,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 4,
+      "6": 14,
+      "7": 8,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.2
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 3,
+    "wish": 6,
+    "collect": 53,
+    "doing": 1
+  },
+  "id": 452425,
+  "eps": 1,
+  "meta_tags": [
+    "短片",
+    "日本",
+    "原创",
+    "MV"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

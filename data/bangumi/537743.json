@@ -1,0 +1,233 @@
+{
+  "date": null,
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/c0/94/537743_yYZxV.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c0/94/537743_yYZxV.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/c0/94/537743_yYZxV.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c0/94/537743_yYZxV.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/c0/94/537743_yYZxV.jpg"
+  },
+  "summary": "",
+  "name": "とある科学の超電磁砲 第4期",
+  "name_cn": "某科学的超电磁炮 第四季",
+  "tags": [
+    {
+      "name": "J.C.STAFF",
+      "count": 101,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 66,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 45,
+      "total_cont": 0
+    },
+    {
+      "name": "长井龙雪",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "镰池和马",
+      "count": 32,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "魔禁",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "冬川基",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法禁书目录",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "御坂美琴",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "萌系",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "某科学的超电磁炮",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "超电磁炮",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "長井龍雪",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未定当",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "炮姐",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "超炮",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "某科学的超电磁炮 第四季"
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://toaru-project.com/railgun_t/"
+    },
+    {
+      "key": "Copyright",
+      "value": "©鎌池和馬／冬川基／KADOKAWA／PROJECT-RAILGUN T"
+    },
+    {
+      "key": "原作",
+      "value": "鎌池和馬＋冬川基"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.5
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 4,
+    "dropped": 2,
+    "wish": 886,
+    "collect": 4,
+    "doing": 18
+  },
+  "id": 537743,
+  "eps": 0,
+  "meta_tags": [
+    "科幻",
+    "TV",
+    "日本",
+    "漫画改",
+    "战斗",
+    "萌系",
+    "少年向"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

@@ -1,0 +1,223 @@
+{
+  "date": null,
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/13/79/486763_25gb5.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/13/79/486763_25gb5.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/13/79/486763_25gb5.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/13/79/486763_25gb5.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/13/79/486763_25gb5.jpg"
+  },
+  "summary": "",
+  "name": "姫様“拷問”の時間です 第2期",
+  "name_cn": "公主大人“拷问”的时间到了 第二季",
+  "tags": [
+    {
+      "name": "PINEJAM",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "白石晴香",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "美食",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ふでやすかずゆき",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小林親弘",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "萌",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "公主大人“拷问”的时间到了",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "公主殿下，拷問的時間到了",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "姫様“拷問”の時間です",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未开播",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "作画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "金森陽子",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "公主大人“拷问”的时间到了 第二季"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "公主大人，接下来是“拷问”时间 第二季"
+        },
+        {
+          "v": "Hime-sama \"Goumon\" no Jikan Desu season2"
+        },
+        {
+          "v": "Tis Time for \"Torture,\" Princess season2"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://himesama-goumon.com/"
+    },
+    {
+      "key": "Copyright",
+      "value": "©春原ロビンソン・ひらけい／集英社・国王軍第三騎士団"
+    },
+    {
+      "key": "原作",
+      "value": "春原ロビンソン・ひらけい（集英社「少年ジャンプ＋」連載）"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 1,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 8.3
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 4,
+    "dropped": 1,
+    "wish": 274,
+    "collect": 1,
+    "doing": 12
+  },
+  "id": 486763,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "漫画改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

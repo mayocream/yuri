@@ -1,0 +1,207 @@
+{
+  "date": "1996-10-25",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/9f/81/67962_8qWGm.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9f/81/67962_8qWGm.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/9f/81/67962_8qWGm.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9f/81/67962_8qWGm.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/9f/81/67962_8qWGm.jpg"
+  },
+  "summary": "地球を救うためにアムールを集めろってしゃべるんだけど、その方法が……\r\n\r\n\r\n\r\nみなさん、こんにちわ。あたし、時坂詩保。\r\nえっちな同級生やお医者さんごっこを迫る英美子ちゃん以上に、深刻な悩みがあるんです。発端は、南極から贈られてきたペンギン型のバッチ。地球を救うためにアムールを集めろってしゃべるんだけど、その方法が……!?",
+  "name": "魔法の詩保ちゃん",
+  "name_cn": "魔法小诗保",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "纯爱",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "菊地康仁",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "1996",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "HentaiAnime",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ピンクパイナップル",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "AIC",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "已删除",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "假百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "阿部雅司",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "无条目",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "儿童色情",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "兴梠里美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "黑丝",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "7",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1996年10月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1990s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "[H]",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "魔法小诗保"
+    },
+    {
+      "key": "话数",
+      "value": "2"
+    },
+    {
+      "key": "发售日",
+      "value": "1996年10月25日"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://www.pinkpineapple.co.jp/products/detail.php?product_id=334"
+    },
+    {
+      "key": "开始",
+      "value": "1996年10月25日"
+    },
+    {
+      "key": "结束",
+      "value": "1997年6月27日"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 36,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 6,
+      "5": 14,
+      "6": 12,
+      "7": 3,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.3
+  },
+  "total_episodes": 2,
+  "collection": {
+    "on_hold": 10,
+    "dropped": 11,
+    "wish": 74,
+    "collect": 60,
+    "doing": 6
+  },
+  "id": 67962,
+  "eps": 2,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

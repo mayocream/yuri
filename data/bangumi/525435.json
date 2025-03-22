@@ -1,0 +1,113 @@
+{
+  "date": "2023-06-07",
+  "platform": "剧场版",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/6e/e3/525435_1gysY.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6e/e3/525435_1gysY.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/6e/e3/525435_1gysY.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6e/e3/525435_1gysY.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/6e/e3/525435_1gysY.jpg"
+  },
+  "summary": "拥有褐色眼睛的普通学生伊京，酷似夏天阳光的高中足球选手秀伊。18岁的夏天，陷入意想不到的爱情的伊京和秀伊描绘着一起的未来，迎来了20岁。与上大学的伊京不同，秀伊直接进入社会，在陌生的幸福和小小的误会中，两人将面临新的季节。",
+  "name": "극장판 그 여름",
+  "name_cn": "那个夏天：剧场版",
+  "tags": [
+    {
+      "name": "百合",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "韩漫",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "韩国",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "那个夏天：剧场版"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "那年夏天，想見妳"
+        }
+      ]
+    },
+    {
+      "key": "上映年度",
+      "value": "2023-06-07(韩国)"
+    },
+    {
+      "key": "片长",
+      "value": "61分钟"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 3,
+      "7": 2,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.4
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 2,
+    "wish": 3,
+    "collect": 14,
+    "doing": 0
+  },
+  "id": 525435,
+  "eps": 1,
+  "meta_tags": [
+    "剧场版",
+    "韩国"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

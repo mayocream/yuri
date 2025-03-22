@@ -1,0 +1,129 @@
+{
+  "date": "2020-04-03",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/dc/96/303507_X7cw8.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/dc/96/303507_X7cw8.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/dc/96/303507_X7cw8.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/dc/96/303507_X7cw8.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/dc/96/303507_X7cw8.jpg"
+  },
+  "summary": "",
+  "name": "Harley Quinn Season 2",
+  "name_cn": "哈莉·奎茵 第二季",
+  "tags": [
+    {
+      "name": "百合",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "dc",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "欧美",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "美国",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2020",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "电视剧",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "哈莉·奎茵 第二季"
+    },
+    {
+      "key": "话数",
+      "value": "13"
+    },
+    {
+      "key": "放送开始",
+      "value": "2020年4月3日"
+    },
+    {
+      "key": "放送星期",
+      "value": "星期五"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://www.dcuniverse.com/videos/harley-quinn/188/season-1"
+    },
+    {
+      "key": "播放电视台",
+      "value": "DC Universe"
+    },
+    {
+      "key": "播放结束",
+      "value": "2020年6月26日"
+    },
+    {
+      "key": "製作",
+      "value": "Yes, Norman Productions、Ehsugadee Productions、DC Entertainment、Warner Bros. Animation"
+    },
+    {
+      "key": "企画",
+      "value": "Justin Halpern、Patrick Schumacker、Dean Lorey"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 43,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 3,
+      "5": 1,
+      "6": 8,
+      "7": 16,
+      "8": 13,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.8
+  },
+  "total_episodes": 13,
+  "collection": {
+    "on_hold": 5,
+    "dropped": 7,
+    "wish": 11,
+    "collect": 70,
+    "doing": 3
+  },
+  "id": 303507,
+  "eps": 13,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

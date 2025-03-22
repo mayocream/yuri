@@ -1,0 +1,193 @@
+{
+  "date": "2013-01-01",
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/c0/3b/210258_JjH9T.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c0/3b/210258_JjH9T.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/c0/3b/210258_JjH9T.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c0/3b/210258_JjH9T.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/c0/3b/210258_JjH9T.jpg"
+  },
+  "summary": "有梦想且上进快乐的好孩子卡卡，别看他只有八岁，却是一个掌握了高深专业知识的未成年童工兼汽车工程师。卡卡开发了集结着高精尖技术的K系统，利用该系统他制造出了活泼欢快的K1、冷静古板的K2和懒惰无力的K3三部赛车。三个性格各异的小家伙到来，令卡卡的助手兼玩伴丁丁也欢喜非常。冒冒失失的K1闹出了不少的笑话，当然它赛车的潜力也得到彰显。这一天，卡卡收到了“超级智能汽车大奖赛”的邀请函，他对自己的发明十分有信心，坚信K1他们能夺得冠军。为了取得最后的胜利，他为三部车制订了严格的训练计划…… \r\n本片是蓝火焰卓导神作《汽车人总动员》的前身（本尊），电视版和电影版傻傻分不清，由此彰显了卓导所一直宣称的“思想性”。只有你想不到，没有他做不到！",
+  "name": "K时代",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "卓建荣",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "国产",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "2013",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "不要碧莲",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "蓝火焰影视",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "有害垃圾",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "惊悚",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "猎奇",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "中国动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "抄袭",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "垃圾",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "答辩",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画（TV）",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "儿童",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "弱智",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "犯罪",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "话数",
+      "value": "20"
+    },
+    {
+      "key": "放送开始",
+      "value": "2013年"
+    },
+    {
+      "key": "导演",
+      "value": "卓建荣"
+    },
+    {
+      "key": "制片人",
+      "value": "黄成才"
+    },
+    {
+      "key": "动画制作",
+      "value": "蓝火焰影视"
+    },
+    {
+      "key": "音乐制作",
+      "value": "北极光乐队"
+    }
+  ],
+  "rating": {
+    "rank": 9072,
+    "total": 53,
+    "count": {
+      "1": 43,
+      "2": 9,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 1.3
+  },
+  "total_episodes": 20,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 39,
+    "wish": 2,
+    "collect": 31,
+    "doing": 1
+  },
+  "id": 210258,
+  "eps": 20,
+  "meta_tags": [
+    "TV",
+    "中国"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

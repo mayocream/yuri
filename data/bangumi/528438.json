@@ -1,0 +1,154 @@
+{
+  "date": "2025-01-01",
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/5b/528438_H8vXl.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/5b/528438_H8vXl.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/0d/5b/528438_H8vXl.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/5b/528438_H8vXl.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/5b/528438_H8vXl.jpg"
+  },
+  "summary": "たった一人でも、好き勝手に話しができる貴女≪あなた≫がいるから――。\r\n一見優等生で深窓の令嬢、話しかけ難い雰囲気を醸し出す和田。 金髪に日焼けした肌、ギャルのような見た目で周りから怖がられる山本。 それぞれ違う学校に通い、ひとりきりで過ごす二人。 そんな二人が毎日の放課後、フードコートで出会う時だけは、お互いしか知らない表情を見せるのです。",
+  "name": "フードコートで、また明日。",
+  "name_cn": "美食广场里的女高中生们在说啥",
+  "tags": [
+    {
+      "name": "TV",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "AtelierPontdarc",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "古贺一臣",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年7月",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "花田十辉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "JK",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "美食广场里的女高中生们在说啥"
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "2025年"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://www.foodcourtjk-anime.com/"
+    },
+    {
+      "key": "Copyright",
+      "value": "©2024 成家慎一郎/KADOKAWA/フードコートで、また明日。製作委員会"
+    },
+    {
+      "key": "原作",
+      "value": "成家慎一郎"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 1,
+    "wish": 193,
+    "collect": 1,
+    "doing": 4
+  },
+  "id": 528438,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "漫画改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

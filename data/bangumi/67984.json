@@ -1,0 +1,195 @@
+{
+  "date": "2000-06-25",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/9b/ab/67984_9qiZM.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9b/ab/67984_9qiZM.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/9b/ab/67984_9qiZM.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9b/ab/67984_9qiZM.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/9b/ab/67984_9qiZM.jpg"
+  },
+  "summary": "",
+  "name": "ヤーリマクイーン",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2000",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "触手",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "GREENBUNNY",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "無修",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "無修正",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "无码",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "早期优秀作品",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2000里番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "R18",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "纯爱",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "无",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "英文字幕",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "どうが",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "步兵",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "あおきえい",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "里",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "18X",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "ヤーリマクィーン"
+        },
+        {
+          "v": "Yarima Queen"
+        },
+        {
+          "v": "Sex Demon Queen"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "发售日",
+      "value": "2000年6月25日"
+    },
+    {
+      "key": "导演",
+      "value": "青木武"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 34,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 7,
+      "6": 14,
+      "7": 4,
+      "8": 5,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 16,
+    "dropped": 10,
+    "wish": 69,
+    "collect": 74,
+    "doing": 4
+  },
+  "id": 67984,
+  "eps": 1,
+  "meta_tags": [
+    "R18",
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

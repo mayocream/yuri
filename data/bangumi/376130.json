@@ -1,0 +1,130 @@
+{
+  "date": "2007-04-20",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/8b/cb/376130_oA1AF.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/8b/cb/376130_oA1AF.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/8b/cb/376130_oA1AF.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/8b/cb/376130_oA1AF.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/8b/cb/376130_oA1AF.jpg"
+  },
+  "summary": "A short CGI crossover Fan Film by Monty Oum. As the title suggests, it crosses over Halo with Metroid. It consists of nothing but our favorite Power Armor-clad protagonists kicking ass (including each others') without regard for minor things like the laws of physics. It was Monty Oum's big break, securing his status as an Internet legend. Something of a rough diamond compared to his later Dead Fantasy and RWBY, it was nevertheless an impressive feat - put together in barely over two months by one man with no formal training or a budget, on his home computer. Showcasing spectacular fight scene choreography, polished visuals, a fair bit of Fanservice, explosions and a Twist Ending, it's a loving send-up to both games as well as shooters/fighting games/action movies in general.",
+  "name": "Haloid",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "百合",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "Monty",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Oum",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "劇場版1",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2007",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SF",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "士官长VS萨姆斯·阿兰"
+        },
+        {
+          "v": "Halo + Metroid Prime - Master Chief VS Samus Aran"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "放送开始",
+      "value": "2007年4月20日"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://www.gametrailers.com/video/haloid-monty-oum/18747"
+    },
+    {
+      "key": "音乐",
+      "value": "Martin O'Donnell, Michael Salvatori, Juno Reactor, Don Davis"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 3,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 7.6
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 2,
+    "wish": 6,
+    "collect": 16,
+    "doing": 0
+  },
+  "id": 376130,
+  "eps": 1,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

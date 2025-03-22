@@ -1,0 +1,156 @@
+{
+  "date": "2024-07-21",
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/25/19/504582_sV6Nv.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/25/19/504582_sV6Nv.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/25/19/504582_sV6Nv.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/25/19/504582_sV6Nv.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/25/19/504582_sV6Nv.jpg"
+  },
+  "summary": "沙滩，海浪，棕榈树，在柔和的晚星下挥舞仙女棒，点燃回忆中永不结束的夏天。",
+  "name": "夏令回想",
+  "name_cn": "《崩坏3》概念动画短片「夏令回想」",
+  "tags": [
+    {
+      "name": "短片",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "国产",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "幻想师动画",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "miHoYoAnime",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "miHoYo",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年7月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "崩坏3",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "CM",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "中国动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "米哈游",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "miHoYo_Anime",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "《崩坏3》概念动画短片「夏令回想」"
+    },
+    {
+      "key": "上映年度",
+      "value": "2024年7月21日"
+    },
+    {
+      "key": "片长",
+      "value": "2分03秒"
+    },
+    {
+      "key": "其他",
+      "value": "https://www.bilibili.com/video/BV1bT421k7kA"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 16,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 5,
+      "7": 6,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.5
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 1,
+    "dropped": 4,
+    "wish": 3,
+    "collect": 30,
+    "doing": 1
+  },
+  "id": 504582,
+  "eps": 1,
+  "meta_tags": [],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

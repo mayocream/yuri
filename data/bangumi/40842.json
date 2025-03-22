@@ -1,0 +1,185 @@
+{
+  "date": "2004-12-23",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/d3/03/40842_gp2G8.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d3/03/40842_gp2G8.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/d3/03/40842_gp2G8.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d3/03/40842_gp2G8.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/d3/03/40842_gp2G8.jpg"
+  },
+  "summary": "石川监督的作品，此同人物曾参加过DoGA大赛并成为了入选作品。\r\n故事围绕着小学生泉（いずみ）、以及家里的宇宙女仆妹酱（メイ）与抖酱（イド），加上名为福利福利（フリフリ）的球体机器人的日常生活超展开。\r\n原作/脚本/アニメ制作　石川プロ\r\n音楽　森田俊輔\r\nメイちゃん　成瀬ゆら\r\nイドちゃん　海月こずえ\r\nいずみちゃん　桜華春日\r\nフリフリ　柊神楽\r\n作品：１３分　制作期間：６ヶ月　動画枚数：２３００枚くらい",
+  "name": "どっちもメイド",
+  "name_cn": "可爱女仆",
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "2004",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "恶搞",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "抽象",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2004年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "独立OVA、OAD、特番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "石川直哉",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "弱6",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "优先级D",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "色情",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "独立",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "可爱女仆"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Two Lovely Maid"
+        },
+        {
+          "v": "哪只都是女仆"
+        },
+        {
+          "v": "哪只都是妹抖"
+        },
+        {
+          "v": "宇宙妹抖"
+        },
+        {
+          "v": "两个可爱的女仆"
+        },
+        {
+          "v": "dotch maid"
+        },
+        {
+          "v": "两边都是女仆"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "发售日",
+      "value": "2004年12月23日"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://home1.tigers-net.com/sammena/works_03meido.html"
+    }
+  ],
+  "rating": {
+    "rank": 7293,
+    "total": 51,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 7,
+      "4": 12,
+      "5": 13,
+      "6": 11,
+      "7": 5,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.9
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 5,
+    "wish": 42,
+    "collect": 73,
+    "doing": 1
+  },
+  "id": 40842,
+  "eps": 1,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

@@ -1,0 +1,127 @@
+{
+  "date": "2021-08-30",
+  "platform": "剧场版",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/c5/af/347032_7wL3U.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/c5/af/347032_7wL3U.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/c5/af/347032_7wL3U.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/c5/af/347032_7wL3U.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/c5/af/347032_7wL3U.jpg"
+  },
+  "summary": "自主制作百合×SF×ロボットアニメ『Vapor Trail』\r\n\r\nPV公開：https://www.youtube.com/watch?v=38P6o7ZIHzc\r\n2021年8月30日(月)→9月12日(日)　大須シネマにてロードショー\r\n《あの日空を翔けた、少女たちの航跡雲》\r\n-ストーリー-\r\n　2079年、3度目の大戦を経た人類が再び手にした平和を記念して太平洋に建造した世界初の軌道エレベーター。しかしその完成記念式典の折、宇宙から巨大な紅い人型オブジェクトが出現する。あまりに強大なそれに人類は抵抗虚しく敗北。軌道エレベーターは占拠され、以来人類はそこから飛来する紅い敵性飛行体『ベイカント』との戦争に突入した。\r\n\r\n　開戦から20年。2099年夏。人類は人型第七世代戦闘機『セヴンス』を開発、ベイカントを軌道エレベーター周辺へ抑え込むことに成功していた。\r\n　八洲軍特殊技術研究部に所属する女性、未宙（みそら）は今日も黒い前進翼のセヴンス《F/SX-02天螺(あまつみ)》を駆り蒼い空を飛ぶ。機体コンピュータに保存された、かつて離ればなれになった少女、リザの人格データとともに。ただ、ふたり一緒にいるために。\r\n\r\n本編35分、総作画枚数7028枚。\r\n本作は昨年YouTubeにて公開された作品『Vapor Trail』(現在非公開)に声優の方を迎え音響と一部演出を再編集したものです。",
+  "name": "Vapor Trail",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "百合",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "2021",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "AsH(灰)",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "动漫",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "上映年度",
+      "value": "2021年8月30日"
+    },
+    {
+      "key": "片长",
+      "value": "35分"
+    },
+    {
+      "key": "Copyright",
+      "value": "大須シネマ"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "公式Twitter",
+      "value": "https://twitter.com/Vapor_Trail_O"
+    },
+    {
+      "key": "キャスティング",
+      "value": "TYK Promotion"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 29,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 10,
+      "6": 10,
+      "7": 5,
+      "8": 0,
+      "9": 2,
+      "10": 1
+    },
+    "score": 6.1
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 3,
+    "dropped": 9,
+    "wish": 31,
+    "collect": 43,
+    "doing": 3
+  },
+  "id": 347032,
+  "eps": 1,
+  "meta_tags": [
+    "剧场版"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

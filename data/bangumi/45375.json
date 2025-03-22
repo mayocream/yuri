@@ -1,0 +1,175 @@
+{
+  "date": "2007-03-23",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/bd/0c/45375_y023i.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bd/0c/45375_y023i.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/bd/0c/45375_y023i.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bd/0c/45375_y023i.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/bd/0c/45375_y023i.jpg"
+  },
+  "summary": "    20XX年，在纽约的韦斯特地区的贫民街发生了无差别杀人事件，就连偶然目击到杀人现场的小孩也没有被凶手放过……乔和美谷两个人要为朋友纱丽过生日，一起回到了这个街区。纱丽是美谷曾经照顾过的孤儿后来被正义感深厚的警察萨姆收养。准备好生日礼物的乔和美谷先行去了警察分局探望萨姆，却从萨姆口中得知纱丽被凶手袭击成重伤，愤怒的乔和美谷决定要抓住凶手为纱丽报仇。但二人完全没料到，凶手的魔爪正在慢慢的伸向他们，更大的阴谋正笼罩着整个街区……",
+  "name": "爆裂天使 ~インフィニティ~",
+  "name_cn": "爆裂天使INFINITY",
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "GONZO",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "2007",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "爆裂天使",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "神枪少女",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "大畑晃一",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "渡辺明乃",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "10+",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "志茂文彦",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "robo",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ゴンゾ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2007年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "豊口めぐみ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "喜欢",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "高橋美佳子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "爆裂天使INFINITY"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "发售日",
+      "value": "2007年3月23日"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 41,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 5,
+      "5": 5,
+      "6": 13,
+      "7": 15,
+      "8": 3,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.1
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 5,
+    "dropped": 9,
+    "wish": 43,
+    "collect": 79,
+    "doing": 5
+  },
+  "id": 45375,
+  "eps": 1,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

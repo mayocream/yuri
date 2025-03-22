@@ -1,0 +1,176 @@
+{
+  "date": "1984-02-21",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/fa/2a/89811_GNMSL.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/fa/2a/89811_GNMSL.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/fa/2a/89811_GNMSL.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/fa/2a/89811_GNMSL.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/fa/2a/89811_GNMSL.jpg"
+  },
+  "summary": "世界上第一部Hentai Anime系列。与《ロリータアニメ（内山亜纪）》同年发售，后者是由另一家公司（にっかつビデオ）制作的另一部动画。",
+  "name": "ロリータアニメ",
+  "name_cn": "萝莉塔动画",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 47,
+      "total_cont": 0
+    },
+    {
+      "name": "上古",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "1984",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "[H]",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "20世纪里番",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "中岛史雄",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "基",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "どうが",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "80s",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "18禁",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "猎奇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OP",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "裡番",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "萝莉塔动画"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Lolita Anime"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "6"
+    },
+    {
+      "key": "发售日",
+      "value": "1984年2月21日"
+    },
+    {
+      "key": "开始",
+      "value": "1984年2月21日"
+    },
+    {
+      "key": "结束",
+      "value": "1985年5月25日"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 37,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 2,
+      "4": 4,
+      "5": 13,
+      "6": 10,
+      "7": 4,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 5.5
+  },
+  "total_episodes": 6,
+  "collection": {
+    "on_hold": 16,
+    "dropped": 12,
+    "wish": 85,
+    "collect": 59,
+    "doing": 8
+  },
+  "id": 89811,
+  "eps": 6,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

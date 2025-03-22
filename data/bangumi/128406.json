@@ -1,0 +1,180 @@
+{
+  "date": "1987-01-01",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/5e/03/128406_rarU8.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5e/03/128406_rarU8.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/5e/03/128406_rarU8.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5e/03/128406_rarU8.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/5e/03/128406_rarU8.jpg"
+  },
+  "summary": "",
+  "name": "オーパーツ OMAN",
+  "name_cn": "OOPArts: Oman",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "作画",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "1987",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "20世纪里番",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "步兵裡番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "无码",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "80年代",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA-22",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "無修正",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "あさりよしとお",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1980s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "可爱",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "步兵",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1987年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "独立OVA、OAD、特番",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "OOPArts: Oman"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "发售日",
+      "value": "1987年"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 16,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 3,
+      "6": 7,
+      "7": 4,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.1
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 6,
+    "dropped": 5,
+    "wish": 14,
+    "collect": 30,
+    "doing": 2
+  },
+  "id": 128406,
+  "eps": 1,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

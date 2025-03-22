@@ -1,0 +1,215 @@
+{
+  "date": null,
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/52/fe/418229_kHryJ.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/52/fe/418229_kHryJ.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/52/fe/418229_kHryJ.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/52/fe/418229_kHryJ.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/52/fe/418229_kHryJ.jpg"
+  },
+  "summary": "",
+  "name": "魔法少女育成計画 restart",
+  "name_cn": "魔法少女育成计划 restart",
+  "tags": [
+    {
+      "name": "TV",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "橋本裕之",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "吉岡たかを",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "沼倉愛美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "桥本裕之",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ラルケ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "MediaMix",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "少女",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "大逃杀",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "東山奈央",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "魔法少女育成计划 restart"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "魔法少女育成计划 第二季"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://mahoiku.com/anime/restart"
+    },
+    {
+      "key": "导演",
+      "value": "橋本裕之"
+    },
+    {
+      "key": "Copyright",
+      "value": "©遠藤浅蜊・マルイノ/宝島社"
+    },
+    {
+      "key": "原作",
+      "value": "遠藤浅蜊（このライトノベルがすごい！文庫『魔法少女育成計画』シリーズ（宝島社刊））"
+    },
+    {
+      "key": "人物设定",
+      "value": "伊藤雅子"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 1,
+    "wish": 71,
+    "collect": 0,
+    "doing": 0
+  },
+  "id": 418229,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "小说改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

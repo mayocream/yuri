@@ -1,0 +1,196 @@
+{
+  "date": "1995-09-22",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/d4/3b/78088_gFx8j.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d4/3b/78088_gFx8j.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/d4/3b/78088_gFx8j.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d4/3b/78088_gFx8j.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/d4/3b/78088_gFx8j.jpg"
+  },
+  "summary": "",
+  "name": "アイドル・プロジェクト",
+  "name_cn": "偶像计划",
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "アイドル・プロジェクト",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "90s",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1995",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "95-99",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "不到7分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "电波萌系",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1990s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "90年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "长冈康史",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "偶像计划"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "偶像万人迷"
+        },
+        {
+          "v": "Idol Project"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "4"
+    },
+    {
+      "key": "发售日",
+      "value": "1995年9月22日"
+    },
+    {
+      "key": "开始",
+      "value": "1995年9月22日"
+    },
+    {
+      "key": "结束",
+      "value": "1997年10月24日"
+    },
+    {
+      "key": "导演",
+      "value": "長岡康史、佐藤豊"
+    },
+    {
+      "key": "脚本",
+      "value": "天野裕充、荒川稔久"
+    },
+    {
+      "key": "作画监督",
+      "value": "渡部圭祐"
+    },
+    {
+      "key": "美术监督",
+      "value": "飯島由樹子"
+    },
+    {
+      "key": "色彩设计",
+      "value": "西香代子"
+    },
+    {
+      "key": "音响监督",
+      "value": "松岡裕紀"
+    },
+    {
+      "key": "音效",
+      "value": "佐々木純一"
+    },
+    {
+      "key": "音乐",
+      "value": "斉藤かんじ"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 19,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 12,
+      "6": 4,
+      "7": 0,
+      "8": 1,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.4
+  },
+  "total_episodes": 4,
+  "collection": {
+    "on_hold": 1,
+    "dropped": 4,
+    "wish": 34,
+    "collect": 22,
+    "doing": 5
+  },
+  "id": 78088,
+  "eps": 4,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

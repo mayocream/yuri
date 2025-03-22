@@ -1,0 +1,236 @@
+{
+  "date": "2022-01-01",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/06/68/423350_DpQuQ.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/06/68/423350_DpQuQ.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/06/68/423350_DpQuQ.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/06/68/423350_DpQuQ.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/06/68/423350_DpQuQ.jpg"
+  },
+  "summary": "天才少年小七和萌萌奶龙这对活宝的日常生活，奶龙由于所在的星球发生变故，来到地球天才少年小七家，小七擅长各种发明，带着奶龙穿梭在武林空间、荒岛空间、游戏空间展开冒险，发生一些列啼笑皆非的故事。",
+  "name": "奶龙",
+  "name_cn": "奶龙",
+  "tags": [
+    {
+      "name": "国产",
+      "count": 90,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 62,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 57,
+      "total_cont": 0
+    },
+    {
+      "name": "奶龙是杀不死的",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "符腾堡公爵",
+      "count": 45,
+      "total_cont": 0
+    },
+    {
+      "name": "太好看了，有种缺了大脑的美捏",
+      "count": 41,
+      "total_cont": 0
+    },
+    {
+      "name": "垃圾",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "奶宇治",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "国漫",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "符批别给你爹引流了",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "答辩",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "里番",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "比mygo好看",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "风风光光",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "唐",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "瓶子君152",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "萌",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "奶龙",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "世界霸权",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "奶龙"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "小七和奶龙"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "200"
+    },
+    {
+      "key": "放送开始",
+      "value": "2022-01-01"
+    },
+    {
+      "key": "导演",
+      "value": "谢承恩"
+    },
+    {
+      "key": "制作公司",
+      "value": "第七印象"
+    },
+    {
+      "key": "角色配音",
+      "value": "第七印象"
+    }
+  ],
+  "rating": {
+    "rank": 9074,
+    "total": 415,
+    "count": {
+      "1": 218,
+      "2": 37,
+      "3": 22,
+      "4": 15,
+      "5": 10,
+      "6": 7,
+      "7": 2,
+      "8": 3,
+      "9": 4,
+      "10": 97
+    },
+    "score": 3.7
+  },
+  "total_episodes": 200,
+  "collection": {
+    "on_hold": 19,
+    "dropped": 161,
+    "wish": 34,
+    "collect": 328,
+    "doing": 31
+  },
+  "id": 423350,
+  "eps": 200,
+  "meta_tags": [
+    "原创",
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

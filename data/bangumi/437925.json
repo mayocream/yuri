@@ -1,0 +1,150 @@
+{
+  "date": "2023-07-03",
+  "platform": "剧场版",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/01/437925_W4Ew6.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/01/437925_W4Ew6.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/5b/01/437925_W4Ew6.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/01/437925_W4Ew6.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/01/437925_W4Ew6.jpg"
+  },
+  "summary": "生命の火が、この星を照らしている\r\n\r\n2006年、瀬戸内海に面する四国の海運都市。\r\n脚の故障で陸上選手の夢を失くした少女、星守明桜(ほしがみあきお)は親友の海添彩希(うみそえあやの)とともに高校に進学。部活や新しい友人たちと出会い、空っぽだった明桜は少しずつかつての自分を取り戻しつつあった。\r\nしかし、ある日彩希が突如姿を消してしまう。　\r\n\r\nこの星には、太古より続く戦いがあった。かつて神に与えられた、空の魂を持つ8体の巨人《星辰機(スターマキナ)》。\r\n\r\n『これに乗り、百年に一度現れる《簒奪者》より生命の火を守れ。そして絶やすな』\r\n\r\nその言葉に従い、星辰機に選ばれた乗り手は戦い抜いてきた。\r\n\r\nそれから幾星霜。全ての星辰機が斃れてから100年。\r\n\r\n次の100年を繋ぐため建造された人工の巨人《星辰機・デスタニア・レプリカ》の精神燃料として捧げられた彩希の魂に選ばれ、明桜は全ての生命を守る戦いに巻き込まれていく。\r\n\r\n彩希とともにいるために。彩希へ一歩踏み出すために。そしてもう一度、自分を信じるために。\r\n\r\n運命を奪い奇跡の熱量が爆ぜた時、存在しない9番目の巨人が目覚める。\r\n其は《ヴァリシア》。冥王の名を冠する白亜の戦士。\r\n\r\n――これは、すべての始まり。\r\nきっといつか忘れられる、ありふれた星の、私たちの物語だ。",
+  "name": "忘星のヴァリシア 第一章：劫火",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "百合",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "机战",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "AsH(灰)",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "待定",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年7月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020-2029",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "上映年度",
+      "value": "2023年7月3日"
+    },
+    {
+      "key": "片长",
+      "value": "33分"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://www.voliciamovie.com/"
+    },
+    {
+      "key": "Copyright",
+      "value": "©2023 AsH(灰)"
+    },
+    {
+      "key": "音乐",
+      "value": "nagiha"
+    },
+    {
+      "key": "音响效果",
+      "value": "こな a.k.a. ふくたらう"
+    },
+    {
+      "key": "制作协力",
+      "value": "零合舎"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 23,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 3,
+      "5": 10,
+      "6": 8,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.3
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 6,
+    "dropped": 4,
+    "wish": 66,
+    "collect": 37,
+    "doing": 4
+  },
+  "id": 437925,
+  "eps": 1,
+  "meta_tags": [
+    "剧场版"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

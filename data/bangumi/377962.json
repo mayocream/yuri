@@ -1,0 +1,204 @@
+{
+  "date": "2022-07-15",
+  "platform": "剧场版",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/87/b9/377962_JckE7.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/87/b9/377962_JckE7.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/87/b9/377962_JckE7.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/87/b9/377962_JckE7.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/87/b9/377962_JckE7.jpg"
+  },
+  "summary": "あかりがスターライトクイーンに輝いたのち、いちごとあかりは、\r\n二人のユニット『コスモス』として、初めてのライブを行い大成功！\r\nこうして時が過ぎていくなか、\r\nスターライト学園・高等部３年のいちごたちは、\r\n半年後に迫る卒業を意識し始める。\r\n卒業しても、アイドル活動は続く。\r\nしかし、卒業は通過点であり、ひとつの分岐点でもある。\r\nいちご・あおい・蘭たちは、アイドルとして、\r\nこれからどんな道を歩んでいきたいかを、ひとりずつ、大切に考え始める。",
+  "name": "アイカツ！ 10th STORY ～未来へのSTARWAY～",
+  "name_cn": "偶像活动！ 10th STORY ～通往未来的STARWAY～",
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像活动",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "BNPictures",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "木村隆一",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "加藤陽一",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年7月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "巴山萌菜",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "下地紫野",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "石川由依",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "BN_Pictures",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "偶像活动！ 10th STORY ～通往未来的STARWAY～"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "アイカツ！ 10th STORY ～未来へのSTARWAY～2022年版"
+        },
+        {
+          "v": "アイカツ！ 10th STORY ～未来へのSTARWAY～短編版"
+        }
+      ]
+    },
+    {
+      "key": "上映年度",
+      "value": "2022年7月15日"
+    },
+    {
+      "key": "片长",
+      "value": "25分"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://www.aikatsu.net/aikatsu_10thstory/"
+    },
+    {
+      "key": "原作",
+      "value": "BN Pictures"
+    },
+    {
+      "key": "导演",
+      "value": "木村隆一"
+    },
+    {
+      "key": "脚本",
+      "value": "加藤陽一"
+    },
+    {
+      "key": "人物设定",
+      "value": "やぐちひろこ"
+    },
+    {
+      "key": "配給",
+      "value": "BN Pictures"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 2,
+      "8": 3,
+      "9": 1,
+      "10": 1
+    },
+    "score": 7.6
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 6,
+    "dropped": 6,
+    "wish": 49,
+    "collect": 22,
+    "doing": 3
+  },
+  "id": 377962,
+  "eps": 1,
+  "meta_tags": [
+    "剧场版"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

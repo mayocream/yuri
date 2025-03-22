@@ -1,0 +1,224 @@
+{
+  "date": "2001-07-27",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/a5/96/101962_TCDlm.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a5/96/101962_TCDlm.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/a5/96/101962_TCDlm.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a5/96/101962_TCDlm.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/a5/96/101962_TCDlm.jpg"
+  },
+  "summary": "2作品だけで終了した。亜美の物語は、中途半端な形で終わっている。",
+  "name": "新世紀くりいむレモン",
+  "name_cn": "新世纪奶油柠檬",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2001",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "奶油柠檬",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "元永慶太郎",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "フェアリーダスト",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "R18",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "自慰",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2001里番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "根元歳三",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "骑兵",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "成人动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "00年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20世纪里番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创里番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "PUA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "7",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "及川ひとみ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "GL",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "安藤ありさ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "檜山修之",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2001年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "重制版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "A.P.P.P.",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "里百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "[Yuri]",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "[H]",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "新世纪奶油柠檬"
+    },
+    {
+      "key": "话数",
+      "value": "2"
+    },
+    {
+      "key": "发售日",
+      "value": "2001年7月27日"
+    },
+    {
+      "key": "开始",
+      "value": "2001年7月27日"
+    },
+    {
+      "key": "结束",
+      "value": "2002年8月23日"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 33,
+    "count": {
+      "1": 0,
+      "2": 4,
+      "3": 1,
+      "4": 7,
+      "5": 12,
+      "6": 4,
+      "7": 2,
+      "8": 1,
+      "9": 0,
+      "10": 2
+    },
+    "score": 5
+  },
+  "total_episodes": 2,
+  "collection": {
+    "on_hold": 19,
+    "dropped": 18,
+    "wish": 51,
+    "collect": 55,
+    "doing": 9
+  },
+  "id": 101962,
+  "eps": 2,
+  "meta_tags": [
+    "R18",
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

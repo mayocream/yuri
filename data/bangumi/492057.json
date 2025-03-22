@@ -1,0 +1,114 @@
+{
+  "date": null,
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/5c/87/492057_2KSky.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5c/87/492057_2KSky.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/5c/87/492057_2KSky.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5c/87/492057_2KSky.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/5c/87/492057_2KSky.jpg"
+  },
+  "summary": "[原案：岡田 麿里]\r\nselectorシリーズの10年後を描く\r\n新ストーリー「selector loth WIXOSS」制作決定!\r\n\r\nアニメPV・漫画など\r\n各種メディアにて今春から展開開始！ ",
+  "name": "selector loth WIXOSS アニメPV",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "J.C.STAFF",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "PV",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "WIXOSS",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年4月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "冈田麿里",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "上映年度",
+      "value": "2024年4月26日"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 11,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 2,
+      "5": 1,
+      "6": 2,
+      "7": 3,
+      "8": 1,
+      "9": 1,
+      "10": 1
+    },
+    "score": 6.6
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 1,
+    "dropped": 6,
+    "wish": 11,
+    "collect": 24,
+    "doing": 2
+  },
+  "id": 492057,
+  "eps": 1,
+  "meta_tags": [],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

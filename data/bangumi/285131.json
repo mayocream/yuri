@@ -1,0 +1,143 @@
+{
+  "date": "2019-07-27",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/0d/a8/446206_WhJ99.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0d/a8/446206_WhJ99.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/0d/a8/446206_WhJ99.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0d/a8/446206_WhJ99.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/0d/a8/446206_WhJ99.jpg"
+  },
+  "summary": "舞台は『ヴァイガルド』\r\n神秘のエネルギー『フォトン』に満ちた肥沃な大地。\r\nこの地を巡り、巨大な力が動きだし、最終戦争『ハルマゲドン』の危機が迫る。\r\n\r\n魔を統べる者『ソロモン』の力を受け継ぎし少年は、\r\nこの世界の命運をかけた戦いの渦に巻き込まれていく。\r\n悪魔とされる『メギド』たちと共に…。",
+  "name": "メギド72 長き戦旅の傍らで",
+  "name_cn": "恶魔72～漫长战斗的幕间～",
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "V-sign",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "千葉美鈴",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "松根マサト",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "恶魔72～漫长战斗的幕间～"
+    },
+    {
+      "key": "话数",
+      "value": "5"
+    },
+    {
+      "key": "放送开始",
+      "value": "2019年7月27日"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://anime.megido72.com/"
+    },
+    {
+      "key": "播放电视台",
+      "value": "YouTube"
+    },
+    {
+      "key": "Copyright",
+      "value": "©DeNA Co.,Ltd."
+    },
+    {
+      "key": "原作",
+      "value": "DeNA"
+    },
+    {
+      "key": "导演",
+      "value": "松根マサト"
+    },
+    {
+      "key": "系列构成",
+      "value": "千葉美鈴"
+    },
+    {
+      "key": "人物设定",
+      "value": "吉田南"
+    },
+    {
+      "key": "音响监督",
+      "value": "関智寛"
+    },
+    {
+      "key": "音乐",
+      "value": "寄崎諒（メディア・ビジョン）"
+    },
+    {
+      "key": "动画制作",
+      "value": "V-sign"
+    },
+    {
+      "key": "制作总指挥",
+      "value": "宮前公彦（DeNA）"
+    },
+    {
+      "key": "制作协力",
+      "value": "メギド72開発チーム（DeNA、メディア・ビジョン）"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "total_episodes": 5,
+  "collection": {
+    "on_hold": 1,
+    "dropped": 9,
+    "wish": 6,
+    "collect": 7,
+    "doing": 0
+  },
+  "id": 285131,
+  "eps": 5,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

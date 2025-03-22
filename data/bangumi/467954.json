@@ -1,0 +1,115 @@
+{
+  "date": null,
+  "platform": "剧场版",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/9d/467954_Xzm1O.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/9d/467954_Xzm1O.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/17/9d/467954_Xzm1O.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/17/9d/467954_Xzm1O.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/17/9d/467954_Xzm1O.jpg"
+  },
+  "summary": "",
+  "name": "戦姫絶唱シンフォギア PROJECT SYMPHOGEAR -next-",
+  "name_cn": "战姬绝唱 PROJECT SYMPHOGEAR -next-",
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "有生之年",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "202x",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "纯爱",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "战姬绝唱 PROJECT SYMPHOGEAR -next-"
+    },
+    {
+      "key": "上映年度",
+      "value": "*"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://portal.symphogear.com/"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 1,
+    "wish": 51,
+    "collect": 0,
+    "doing": 0
+  },
+  "id": 467954,
+  "eps": 0,
+  "meta_tags": [
+    "剧场版"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

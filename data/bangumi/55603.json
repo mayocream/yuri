@@ -1,0 +1,190 @@
+{
+  "date": "2004-08-04",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/66/00/55603_29df6.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/66/00/55603_29df6.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/66/00/55603_29df6.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/66/00/55603_29df6.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/66/00/55603_29df6.jpg"
+  },
+  "summary": "小さな女性高校教師・鈴木みかを主人公に、彼女が勤める高校の個性豊かな先生と生徒が繰り広げる、にぎやかな日常を描いた学園コメディ作品。『まんがライフオリジナル』で1997年3月号から連載されていたが、2003年6月号をもって同誌での連載を終了。新創刊された『まんがライフMOMO』の看板作品として、2003年8月号（創刊号）から現在に至るまで連載されている。2006年4月号より7月号まではももせが産休に入ったため、「特別補習授業!!」として傑作選を掲載した。",
+  "name": "せんせいのお時間 ご〜るど",
+  "name_cn": "老师的时间 gold",
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2004",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "南央美",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "J.C.STAFF",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "老师的时间",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "川上とも子",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "岩崎良明",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "补番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "白根秀树",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "白根秀樹",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "空气系",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "腐",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2004年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "老师的时间 gold"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "せんせいのお時間OVA"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "7"
+    },
+    {
+      "key": "发售日",
+      "value": "2004年8月4日"
+    },
+    {
+      "key": "开始",
+      "value": "2004年8月4日"
+    },
+    {
+      "key": "结束",
+      "value": "2005年2月2日"
+    },
+    {
+      "key": "导演",
+      "value": "岩崎良明"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 19,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 4,
+      "7": 7,
+      "8": 6,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.9
+  },
+  "total_episodes": 7,
+  "collection": {
+    "on_hold": 4,
+    "dropped": 6,
+    "wish": 22,
+    "collect": 32,
+    "doing": 1
+  },
+  "id": 55603,
+  "eps": 7,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

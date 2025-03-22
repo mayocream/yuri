@@ -1,0 +1,172 @@
+{
+  "date": "2018-07-21",
+  "platform": "剧场版",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/f7/57/254920_S5878.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f7/57/254920_S5878.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/f7/57/254920_S5878.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f7/57/254920_S5878.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/f7/57/254920_S5878.jpg"
+  },
+  "summary": "話題の超大作、「劇場版姫リグル」「現夢」から、およそ8年。TUMENECO×四面楚歌の最強タッグが、新たな仲間、京都幻想劇団とコラボレーションした劇場版企画 最新作！！ 秘封俱楽部を愛する想いが豪華ゲストを多数引き寄せ、誰もが待ちわびた壮大作品がついに、完成。\r\n\r\n「秘封倶楽部が映画化したら……」というコンセプトのもと、CD・小説・パンフレット・グッズを制作。映画本編の映像は、予告編映像とともにすべての作品を手にすることで、確実に貴方の脳内に浮かび上がることでしょう。\r\n\r\nさぁ、劇場版秘封俱楽部の世界を存分にお楽しみください！ ",
+  "name": "星降る夜のユートピア",
+  "name_cn": "繁星陨落之夜的乌托邦",
+  "tags": [
+    {
+      "name": "2018",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "东方",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TUMENECO",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "同人",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "其它",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "秘封糖",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未下载",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "東方",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小说",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "東方Project",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "繁星陨落之夜的乌托邦"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "劇場版秘封倶楽部"
+        }
+      ]
+    },
+    {
+      "key": "上映年度",
+      "value": "2018年7月21日"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://hihu-topia.com/"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 20,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 7,
+      "7": 6,
+      "8": 2,
+      "9": 1,
+      "10": 3
+    },
+    "score": 7.2
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 5,
+    "wish": 43,
+    "collect": 44,
+    "doing": 2
+  },
+  "id": 254920,
+  "eps": 1,
+  "meta_tags": [
+    "剧场版"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

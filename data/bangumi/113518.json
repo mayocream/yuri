@@ -1,0 +1,143 @@
+{
+  "date": "2011-02-01",
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/cc/aa/113518_2h2R2.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cc/aa/113518_2h2R2.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/cc/aa/113518_2h2R2.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cc/aa/113518_2h2R2.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/cc/aa/113518_2h2R2.jpg"
+  },
+  "summary": "「Perfect Day」是supercell專輯《Today Is A Beautiful Day》收錄的一首歌曲，詞曲為ryo，由yanaginagi演唱。\r\nsupercell為這首歌專門原創了背景故事及人設，製作的PV收錄在《Today Is A Beautiful Day》的限定版中。\r\n\r\n",
+  "name": "Perfect Day",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "短片",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "2011",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "MV",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "中村亮介",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "MADHouse",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "supercell",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "nagi",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "ryo",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "本命作",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "短片与MV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "可独立观赏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "水",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "上映年度",
+      "value": "2011年2月"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "简介来源",
+      "value": "https://zh.moegirl.org.cn/Perfect_Day(supercell)"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 33,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 6,
+      "6": 11,
+      "7": 9,
+      "8": 1,
+      "9": 5,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 1,
+    "dropped": 5,
+    "wish": 34,
+    "collect": 58,
+    "doing": 2
+  },
+  "id": 113518,
+  "eps": 1,
+  "meta_tags": [],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

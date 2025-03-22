@@ -1,0 +1,144 @@
+{
+  "date": "2022-12-15",
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/cf/66/451274_650oB.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/cf/66/451274_650oB.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/cf/66/451274_650oB.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/cf/66/451274_650oB.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/cf/66/451274_650oB.jpg"
+  },
+  "summary": "綺羅キラー (feat. Mori Calliope)\r\n(ZUTOMAYO - Kira Killer)\r\nLyrics - ACAね, Mori Calliope\r\nMusic - ACAね\r\nArrangement - 100回嘔吐, ZTMY\r\n\r\nVocal, Guitar, Electric Fan Harp - ACAね\r\nRap - Mori Calliope @MoriCalliope \r\nDrums - Fumihiro Ibuki \r\nBass - Ryosuke Nikamoto\r\nGuitar, Piano - 100kai Outo\r\nTsugaru-Shamisen - Yutaka Oyama\r\nRec & Mix Engineer - Toru Matake\r\nMastering Engineer - Takeo Kira \r\nSound Direction - Kohei Matsumoto\r\n\r\nMV – こむぎこ2000",
+  "name": "綺羅キラー (feat. Mori Calliope)",
+  "name_cn": "绮罗killer(feat. Mori Calliope)",
+  "tags": [
+    {
+      "name": "短片",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "MV",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ずっと真夜中でいいのに",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "こむぎこ2000",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "绮罗killer(feat. Mori Calliope)"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Kira Killer"
+        }
+      ]
+    },
+    {
+      "key": "上映年度",
+      "value": "2022年12月15日"
+    },
+    {
+      "key": "片长",
+      "value": "4:13"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://zutomayo.net/"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "在线播放平台",
+      "value": "YouTube"
+    },
+    {
+      "key": "在线播放",
+      "value": "www.youtube.com/watch?v=e5LaKxJVeVI"
+    },
+    {
+      "key": "主题歌演出",
+      "value": "ずっと真夜中でいいのに。"
+    },
+    {
+      "key": "动画制作",
+      "value": "こむぎこ2000"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 4,
+      "7": 5,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.4
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 2,
+    "wish": 2,
+    "collect": 32,
+    "doing": 0
+  },
+  "id": 451274,
+  "eps": 1,
+  "meta_tags": [
+    "短片",
+    "日本",
+    "MV"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

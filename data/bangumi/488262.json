@@ -1,0 +1,98 @@
+{
+  "date": "2024-01-20",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/5f/59/488262_GWz4P.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5f/59/488262_GWz4P.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/5f/59/488262_GWz4P.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5f/59/488262_GWz4P.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/5f/59/488262_GWz4P.jpg"
+  },
+  "summary": "父親の転勤をきっかけに田舎の女子校へ転校してきた\r\n主人公・来栖直くるすなお。\r\n新しい学校に早く慣れるよう頑張ろうと思っていた矢先に、\r\n転校先のクラスで出会ってしまった。\r\n「着ぐるみのクラスメイト」に──。\r\n謎の着ぐるみを着た山田ゆるりやまだゆるりは普通に授業を受け、\r\n普通にクラスに溶け込んでいた。\r\n\r\nなぜ、学校に着ぐるみがいるのか？この着ぐるみの中身は何者なのか？\r\nどう見ても普通ではない着ぐるみがどうしても気になる直は、\r\n正体を知るべく奔走するが…！？",
+  "name": "放送室の着ぐるみガール",
+  "name_cn": "放送室的奇装女孩",
+  "tags": [
+    {
+      "name": "泡面",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "放送室的奇装女孩"
+    },
+    {
+      "key": "话数",
+      "value": "12"
+    },
+    {
+      "key": "放送开始",
+      "value": "2024年1月20日"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://digimerce.jp/data/snack/kigurumigirl/"
+    },
+    {
+      "key": "Copyright",
+      "value": "(C) DIGIMERCE Inc. All Rights Reserved."
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 2
+    },
+    "score": 7.3
+  },
+  "total_episodes": 12,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 3,
+    "wish": 12,
+    "collect": 1,
+    "doing": 3
+  },
+  "id": 488262,
+  "eps": 12,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

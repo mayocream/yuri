@@ -1,0 +1,226 @@
+{
+  "date": "2002-08-10",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/bc/121724_mm5kk.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/bc/121724_mm5kk.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/71/bc/121724_mm5kk.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/bc/121724_mm5kk.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/bc/121724_mm5kk.jpg"
+  },
+  "summary": "原作とかなり設定が違うアニメ（間宮が目を見た相手をマインドコントロールできたりします）。\r\n卓司の声はこっちの方が自分のイメージには合うようです。\r\nちなみにエロシーンのアニメは超空間のありす＋やているらんぷにも匹敵する凄まじいクオリティを誇ります。\r\n",
+  "name": "終ノ空",
+  "name_cn": "终之空",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 160,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 105,
+      "total_cont": 0
+    },
+    {
+      "name": "GAL改",
+      "count": 76,
+      "total_cont": 0
+    },
+    {
+      "name": "2002",
+      "count": 75,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "这不是里番，是艺术",
+      "count": 44,
+      "total_cont": 0
+    },
+    {
+      "name": "旷世奇作",
+      "count": 40,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 34,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "N43Project",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "R18",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "KeroQ",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "18禁",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2002年",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "ObtainFuture",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "里",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "什么鬼",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2000s",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "毒",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "辣鸡玩意",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "封面欺诈",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "假百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Obtain",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "节目效果",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Obtain_Future",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "乱搞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "符腾堡公爵",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "终之空"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "发售日",
+      "value": "2002年8月10日"
+    },
+    {
+      "key": "片长",
+      "value": "30分钟"
+    },
+    {
+      "key": "动画制作",
+      "value": "N43Project"
+    }
+  ],
+  "rating": {
+    "rank": 9126,
+    "total": 331,
+    "count": {
+      "1": 188,
+      "2": 69,
+      "3": 22,
+      "4": 13,
+      "5": 7,
+      "6": 2,
+      "7": 1,
+      "8": 2,
+      "9": 2,
+      "10": 25
+    },
+    "score": 2.4
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 40,
+    "dropped": 48,
+    "wish": 196,
+    "collect": 444,
+    "doing": 6
+  },
+  "id": 121724,
+  "eps": 1,
+  "meta_tags": [
+    "R18",
+    "日本",
+    "OVA",
+    "游戏改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

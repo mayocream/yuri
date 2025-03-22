@@ -1,0 +1,144 @@
+{
+  "date": null,
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/01/d1/212803_ivHeF.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/01/d1/212803_ivHeF.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/01/d1/212803_ivHeF.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/01/d1/212803_ivHeF.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/01/d1/212803_ivHeF.jpg"
+  },
+  "summary": "http://www.tbs.co.jp/anime/gn/news/news20181122_01.html\r\n\r\n2018.11.22\r\nガーリッシュナンバー修羅制作中止のお知らせ\r\n\r\n2017年の4月に行われた「くずふぇす」にて制作を発表させていただきました、「ガーリッシュ ナンバー修羅」の制作を中止とさせていただくことになりましたので、ここにご案内申し上げます。\r\n\r\nこちらの企画につきましては制作上の都合により当初予定していたスタッフの確保が厳しくなり、クオリティ、スケジュールについての保証が難しいと判断致しました。\r\n\r\n楽しみにしてくださっていたファンのみなさま、並びに関係者のみなさまには大変申し訳ありません。\r\n\r\nTBS\r\nディオメディア\r\nガーリッシュナンバー製作委員会\r\n",
+  "name": "ガーリッシュ ナンバー 修羅",
+  "name_cn": "少女编号 修罗",
+  "tags": [
+    {
+      "name": "坑",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "企划中止",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "职场",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "表外",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "少女编号",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "草莓",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "少女编号 修罗"
+    },
+    {
+      "key": "状态",
+      "value": "制作中止"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 10
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 8,
+    "dropped": 14,
+    "wish": 97,
+    "collect": 5,
+    "doing": 5
+  },
+  "id": 212803,
+  "eps": 0,
+  "meta_tags": [],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

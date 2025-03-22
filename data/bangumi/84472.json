@@ -1,0 +1,154 @@
+{
+  "date": "2008-11-29",
+  "platform": "剧场版",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/0b/bd/84472_5VvG5.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/0b/bd/84472_5VvG5.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/0b/bd/84472_5VvG5.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/0b/bd/84472_5VvG5.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/0b/bd/84472_5VvG5.jpg"
+  },
+  "summary": "企画制作を秋元康を手がけた劇場用アニメ作品。本編内容は2007年にリリースされたOVA３作品を再編集したもの。物語の舞台は、汚染物質によって短期間で男性が死に絶えた世界の東京中央区画。そこに女性のみで生殖を可能とする技術「ICE」のサンプルが見つかったことで、そこで暮らす少女たちは戦いに巻き込まれていくことになった。人類を救う技術とされる「ICE」はどこにあるのか……。誰がその技術を手にするのか……。なお本作は、企画制作を秋元康が手がけたこともあり、AKB48が声優として出演していることでも注目を集めた作品だ。",
+  "name": "ICE〈劇場版〉",
+  "name_cn": "ICE 剧场版",
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "2008",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "补番",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "喜多村英梨",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "石田彰",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "[Yuri:Vain]",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "喵帕斯记录~",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "[NBG]",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "合集",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "渣",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "ICE 剧场版"
+    },
+    {
+      "key": "上映年度",
+      "value": "2008-11-29"
+    },
+    {
+      "key": "片长",
+      "value": "103分"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://www.project-ice.com/"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "原作",
+      "value": "秋元康"
+    },
+    {
+      "key": "导演",
+      "value": "小林誠"
+    },
+    {
+      "key": "人物设定",
+      "value": "大西雅也"
+    },
+    {
+      "key": "製作",
+      "value": "E-NET FRONTIER、PROJECT-ICE"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 26,
+    "count": {
+      "1": 3,
+      "2": 0,
+      "3": 1,
+      "4": 2,
+      "5": 7,
+      "6": 6,
+      "7": 5,
+      "8": 1,
+      "9": 1,
+      "10": 0
+    },
+    "score": 5.3
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 7,
+    "dropped": 4,
+    "wish": 31,
+    "collect": 44,
+    "doing": 2
+  },
+  "id": 84472,
+  "eps": 1,
+  "meta_tags": [
+    "剧场版"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

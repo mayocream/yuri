@@ -1,0 +1,167 @@
+{
+  "date": "2016-01-09",
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/79/e5/259626_IfhES.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/79/e5/259626_IfhES.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/79/e5/259626_IfhES.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/79/e5/259626_IfhES.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/79/e5/259626_IfhES.jpg"
+  },
+  "summary": "『私たち、らくろじ部！』は、テレビアニメ『ラクエンロジック』の本編直前の冒頭1分間に放送するショートアニメ。メインスタッフは監督の直谷たかしとキャラクターデザイン・総作画監督の熊谷勝弘を除き『ラクエンロジック』本編と同じだが、世界観やストーリーは本編から独立した別の物語。女子高生たちがトレーディングカードゲーム『ラクエンロジック』を楽しむ部活「らくろじ部」で繰り広げる日々を描く。 ",
+  "name": "私たち、らくろじ部！",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2016",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动画工房",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2017",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Bushiroad",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2016年1月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "优先级N",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "无修版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "卡牌",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "直谷隆",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "话数",
+      "value": "12"
+    },
+    {
+      "key": "放送开始",
+      "value": "2016年1月9日"
+    },
+    {
+      "key": "放送星期",
+      "value": "星期六"
+    },
+    {
+      "key": "播放结束",
+      "value": "2016年3月26日"
+    },
+    {
+      "key": "背景",
+      "value": "ととにゃん"
+    },
+    {
+      "key": "制作协力",
+      "value": "HORNETS"
+    },
+    {
+      "key": "制作",
+      "value": "Project Luck & Logic"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 4,
+      "6": 4,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.3
+  },
+  "total_episodes": 12,
+  "collection": {
+    "on_hold": 10,
+    "dropped": 7,
+    "wish": 29,
+    "collect": 19,
+    "doing": 3
+  },
+  "id": 259626,
+  "eps": 12,
+  "meta_tags": [
+    "TV",
+    "日本"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

@@ -1,0 +1,250 @@
+{
+  "date": null,
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/9a/537409_w8wy0.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/9a/537409_w8wy0.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/5b/9a/537409_w8wy0.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/9a/537409_w8wy0.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/9a/537409_w8wy0.jpg"
+  },
+  "summary": "「ぼっちちゃん」こと後藤ひとりは、ギターを愛する孤独な少女。\r\n家で一人寂しく弾くだけの毎日だったが、\r\nひょんなことから伊地知虹夏が率いる「結束バンド」に加入することに。\r\n人前での演奏に不慣れな後藤は、立派なバンドマンになれるのか――",
+  "name": "ぼっち・ざ・ろっく！ 第2期",
+  "name_cn": "孤独摇滚！第二季",
+  "tags": [
+    {
+      "name": "CloverWorks",
+      "count": 217,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 171,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 156,
+      "total_cont": 0
+    },
+    {
+      "name": "芳文社",
+      "count": 143,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 137,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 112,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 75,
+      "total_cont": 0
+    },
+    {
+      "name": "山本ゆうすけ",
+      "count": 70,
+      "total_cont": 0
+    },
+    {
+      "name": "乐队",
+      "count": 64,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 63,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 57,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "山本裕介",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "孤独摇滚",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "滨路晶",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "吉田恵里香",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "少女乐队",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "乐队题材",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小田景门",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "青山吉能",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "孤独摇滚！第二季"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "BTR 2"
+        },
+        {
+          "v": "Bocchi the Rock! Season 2"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://bocchi.rocks/"
+    },
+    {
+      "key": "导演",
+      "value": "山本ゆうすけ"
+    },
+    {
+      "key": "Copyright",
+      "value": "©はまじあき／芳文社・アニプレックス"
+    },
+    {
+      "key": "原作",
+      "value": "はまじあき（芳文社「まんがタイムきららMAX」連載中）"
+    },
+    {
+      "key": "人物设定",
+      "value": "小田景門、けろりら"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 0,
+      "8": 2,
+      "9": 1,
+      "10": 3
+    },
+    "score": 7.1
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 16,
+    "dropped": 4,
+    "wish": 2044,
+    "collect": 8,
+    "doing": 25
+  },
+  "id": 537409,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "漫画改",
+    "音乐",
+    "日常"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

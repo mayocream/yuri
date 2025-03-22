@@ -1,0 +1,171 @@
+{
+  "date": "2018-01-03",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/e4/fd/234092_yGO48.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e4/fd/234092_yGO48.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/e4/fd/234092_yGO48.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e4/fd/234092_yGO48.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/e4/fd/234092_yGO48.jpg"
+  },
+  "summary": "",
+  "name": "やさCせかい",
+  "name_cn": "优C世界",
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2018",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "一人staff",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "kem20",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年1月",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "独立OVA、OAD、特番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "やさCせかい",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年Web·SP",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Webアニメ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "优C世界"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Yasashi Sekai"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "3"
+    },
+    {
+      "key": "放送开始",
+      "value": "2018年1月3日"
+    },
+    {
+      "key": "官方网站",
+      "value": "www.yasacsekai.com"
+    },
+    {
+      "key": "播放结束",
+      "value": "2018年10月20日"
+    },
+    {
+      "key": "Copyright",
+      "value": "©kem20 / アニメ『やさCせかい』製作委員会"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 35,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 2,
+      "4": 5,
+      "5": 11,
+      "6": 13,
+      "7": 0,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.3
+  },
+  "total_episodes": 3,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 10,
+    "wish": 30,
+    "collect": 56,
+    "doing": 8
+  },
+  "id": 234092,
+  "eps": 3,
+  "meta_tags": [
+    "原创",
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

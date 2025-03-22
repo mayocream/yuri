@@ -1,0 +1,220 @@
+{
+  "date": null,
+  "platform": "OVA",
+  "images": {
+    "small": "",
+    "grid": "",
+    "large": "",
+    "medium": "",
+    "common": ""
+  },
+  "summary": "",
+  "name": "ガールズ&パンツァー 最終章 第5話",
+  "name_cn": "少女与战车 最终章 第5话",
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 53,
+      "total_cont": 0
+    },
+    {
+      "name": "少女与战车",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "水岛努",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "Actas",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "有生之年",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "吉田玲子",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "アクタス",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "水島努",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "竞技",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "热血",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战车道",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战车",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "少战",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "杉本功",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "最终章",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画（OVA）",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "制作中",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "待上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "渕上舞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "movie",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "少女与战车 最终章 第5话"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://girls-und-panzer-finale.jp"
+    },
+    {
+      "key": "人物原案",
+      "value": "島田フミカネ；协力：野上武志"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 9,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 0,
+      "7": 2,
+      "8": 2,
+      "9": 0,
+      "10": 2
+    },
+    "score": 6.8
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 13,
+    "dropped": 7,
+    "wish": 520,
+    "collect": 19,
+    "doing": 19
+  },
+  "id": 208829,
+  "eps": 1,
+  "meta_tags": [
+    "OVA",
+    "原创"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

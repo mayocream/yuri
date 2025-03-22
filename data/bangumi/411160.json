@@ -1,0 +1,236 @@
+{
+  "date": null,
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/ef/86/411160_NUuq8.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ef/86/411160_NUuq8.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/ef/86/411160_NUuq8.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ef/86/411160_NUuq8.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/ef/86/411160_NUuq8.jpg"
+  },
+  "summary": "以疫情期间，发生在那些防疫志愿者身上的某些暖心瞬间为创作背景，通过动画形式展现在大众眼前。",
+  "name": "大白日记",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "国产",
+      "count": 54,
+      "total_cont": 0
+    },
+    {
+      "name": "这终于是可以碰的滑梯了",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 36,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "垃圾",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "讲好中国故事",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "符腾堡公爵",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "叮咚鸡",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "3D",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "国漫",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "答辩",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "游洋",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原神",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "神配乐",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "一分垃圾",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "22秋",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小小的中国震撼",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "China防疫，Best防疫。",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "不乳不看",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "脑缠",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "共同记忆",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "可以预测的命运之舞台",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "永远跟党走",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "抗疫",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "官方网站",
+      "value": "https://www.bilibili.com/bangumi/media/md28339707"
+    },
+    {
+      "key": "话数",
+      "value": "19"
+    },
+    {
+      "key": "放送开始",
+      "value": "2022年10月1日"
+    },
+    {
+      "key": "放送星期",
+      "value": "星期三、星期六"
+    },
+    {
+      "key": "网络播放平台",
+      "value": "bilibili"
+    },
+    {
+      "key": "导演",
+      "value": "游洋"
+    },
+    {
+      "key": "出品人",
+      "value": "游洋"
+    },
+    {
+      "key": "监制",
+      "value": "游洋"
+    }
+  ],
+  "rating": {
+    "rank": 9130,
+    "total": 239,
+    "count": {
+      "1": 197,
+      "2": 13,
+      "3": 6,
+      "4": 1,
+      "5": 2,
+      "6": 0,
+      "7": 0,
+      "8": 2,
+      "9": 3,
+      "10": 15
+    },
+    "score": 1.9
+  },
+  "total_episodes": 19,
+  "collection": {
+    "on_hold": 9,
+    "dropped": 115,
+    "wish": 27,
+    "collect": 203,
+    "doing": 6
+  },
+  "id": 411160,
+  "eps": 19,
+  "meta_tags": [
+    "原创",
+    "中国"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

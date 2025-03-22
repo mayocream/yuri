@@ -1,0 +1,130 @@
+{
+  "date": "2019-11-18",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/34/294948_18Xpj.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/34/294948_18Xpj.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/a9/34/294948_18Xpj.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/34/294948_18Xpj.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/34/294948_18Xpj.jpg"
+  },
+  "summary": "WEB百合アンソロジートワールvol.4の公開を記念して、vol.1収録の百合漫画「＠新宿区歌舞伎町近辺午前0時」がアニメ化！",
+  "name": "＠新宿区歌舞伎町近辺午前0時",
+  "name_cn": "＠新宿区歌舞伎町附近午前0点",
+  "tags": [
+    {
+      "name": "短片",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "＠新宿区歌舞伎町附近午前0点"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "放送开始",
+      "value": "2019年11月18日"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://yurinavi.com/2019/11/17/anime-shinjyuku/"
+    },
+    {
+      "key": "Copyright",
+      "value": "©2018 2019 どよんど。 DesktopSound アニメタオル"
+    },
+    {
+      "key": "片长",
+      "value": "1分41秒"
+    },
+    {
+      "key": "原作",
+      "value": "どよんど。×DesktopSound 百合シチュエーションドラマCD 「＠新宿区歌舞伎町近辺午前0時」より"
+    },
+    {
+      "key": "脚本",
+      "value": "たいやき(どよんど。)"
+    },
+    {
+      "key": "作画监修",
+      "value": "たいやき"
+    },
+    {
+      "key": "音响制作",
+      "value": "こころ(DesktopSound)"
+    },
+    {
+      "key": "插件协作",
+      "value": "渡邊賢悟(Kengo:Lab)"
+    },
+    {
+      "key": "动画制作",
+      "value": "たおるにゃん(アニメタオル)"
+    },
+    {
+      "key": "Youtube",
+      "value": "https://www.youtube.com/watch?v=2IP0W5hNkxY"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 20,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 10,
+      "6": 5,
+      "7": 2,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.5
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 4,
+    "wish": 13,
+    "collect": 34,
+    "doing": 1
+  },
+  "id": 294948,
+  "eps": 1,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

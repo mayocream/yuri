@@ -1,0 +1,115 @@
+{
+  "date": "2023-10-27",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/6c/a1/459312_jNrfR.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6c/a1/459312_jNrfR.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/6c/a1/459312_jNrfR.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6c/a1/459312_jNrfR.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/6c/a1/459312_jNrfR.jpg"
+  },
+  "summary": "",
+  "name": "ドラゴン娘になりたくないっ！",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "2023",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Dragon musume ni naritaku nai"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "2023年10月27日"
+    },
+    {
+      "key": "放送星期",
+      "value": "星期五"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://www.youtube.com/@dragonmusume_naritakunai"
+    },
+    {
+      "key": "其他",
+      "value": "https://twitter.com/DMnaritakunai"
+    },
+    {
+      "key": "在线播放平台",
+      "value": "YouTube"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 2,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.3
+  },
+  "total_episodes": 4,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 6,
+    "wish": 24,
+    "collect": 4,
+    "doing": 3
+  },
+  "id": 459312,
+  "eps": 0,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

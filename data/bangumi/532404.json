@@ -1,0 +1,122 @@
+{
+  "date": null,
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/a7/fd/532404_62rBf.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a7/fd/532404_62rBf.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/a7/fd/532404_62rBf.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a7/fd/532404_62rBf.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/a7/fd/532404_62rBf.jpg"
+  },
+  "summary": "剣と魔法の世界シエルで孤児として生きていた少女アーリシア。ある日、彼女は自分が“乙女ゲームのヒロイン”であると知ってしまう。両親の死さえ単にストーリーの一部だったのだ。アーリシアはヒロインの役割を「くだらない」と一刀両断すると、冒険者『アリア』を名乗り、次第に複数の武器と魔法を操る「殺戮の灰かぶり姫」へと成長していく！だが、“悪役令嬢”の護衛依頼を受けたことで、気付かぬ間に貴族同士が争うゲームの舞台に巻き込まれていき――？",
+  "name": "乙女ゲームのヒロインで最強サバイバル",
+  "name_cn": "身为女性向游戏的女主角挑战最强生存剧",
+  "tags": [
+    {
+      "name": "TV",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "可独立观赏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "身为女性向游戏的女主角挑战最强生存剧"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "乙女游戏的女主角的最强生存之道"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://www.tobooks.jp/otosaba/index.html"
+    },
+    {
+      "key": "Copyright",
+      "value": "©Harunohi Biyori / TO Books. Illustrated by Yuu Hitaki"
+    },
+    {
+      "key": "原作",
+      "value": "春の日びより"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 2,
+    "wish": 27,
+    "collect": 0,
+    "doing": 0
+  },
+  "id": 532404,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "小说改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

@@ -1,0 +1,241 @@
+{
+  "date": "2001-12-08",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/bb/43/17652_f2TTp.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bb/43/17652_f2TTp.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/bb/43/17652_f2TTp.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bb/43/17652_f2TTp.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/bb/43/17652_f2TTp.jpg"
+  },
+  "summary": "『顔のない月 -No Surface Moon THE ANIMATION-』（かおのないつき ノー・サーフェイス・ムーン ジ・アニメーション）のタイトル名で、ピンクパイナップルより発売。当初は全4巻予定だったが、1巻伸び、全5巻構成となった。",
+  "name": "顔のない月 -No Surface Moon THE ANIMATION-",
+  "name_cn": "无颜之月",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 921,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 264,
+      "total_cont": 0
+    },
+    {
+      "name": "18X",
+      "count": 256,
+      "total_cont": 0
+    },
+    {
+      "name": "2001",
+      "count": 216,
+      "total_cont": 0
+    },
+    {
+      "name": "石田彰",
+      "count": 211,
+      "total_cont": 0
+    },
+    {
+      "name": "无颜之月",
+      "count": 178,
+      "total_cont": 0
+    },
+    {
+      "name": "GAL改",
+      "count": 167,
+      "total_cont": 0
+    },
+    {
+      "name": "顔のない月",
+      "count": 145,
+      "total_cont": 0
+    },
+    {
+      "name": "不要脸的月亮",
+      "count": 83,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 70,
+      "total_cont": 0
+    },
+    {
+      "name": "猎奇",
+      "count": 60,
+      "total_cont": 0
+    },
+    {
+      "name": "实用",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "小林沙苗",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "H",
+      "count": 42,
+      "total_cont": 0
+    },
+    {
+      "name": "ピンクパイナップル",
+      "count": 41,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 39,
+      "total_cont": 0
+    },
+    {
+      "name": "无码",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "R18",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "男主美型",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "IMAGIN",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "步兵",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "纯爱",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "荒木英樹",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2001年12月",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "郷敏治",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2001年",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "イマジン",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "步兵裡番",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "里",
+      "count": 8,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "无颜之月"
+    },
+    {
+      "key": "话数",
+      "value": "5"
+    },
+    {
+      "key": "发售日",
+      "value": "2001年12月8日"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://www.pinkpineapple.co.jp/web/kaotsuki/"
+    },
+    {
+      "key": "开始",
+      "value": "2001年12月8日"
+    },
+    {
+      "key": "结束",
+      "value": "2004年7月23日"
+    },
+    {
+      "key": "动画制作",
+      "value": "イマジン、ORADA COMPANY"
+    },
+    {
+      "key": "主题歌作詞",
+      "value": "五十嵐正"
+    },
+    {
+      "key": "主题歌演出",
+      "value": "arca"
+    }
+  ],
+  "rating": {
+    "rank": 2528,
+    "total": 1554,
+    "count": {
+      "1": 4,
+      "2": 3,
+      "3": 12,
+      "4": 32,
+      "5": 108,
+      "6": 337,
+      "7": 550,
+      "8": 343,
+      "9": 100,
+      "10": 65
+    },
+    "score": 7
+  },
+  "total_episodes": 6,
+  "collection": {
+    "on_hold": 108,
+    "dropped": 79,
+    "wish": 786,
+    "collect": 2651,
+    "doing": 77
+  },
+  "id": 17652,
+  "eps": 5,
+  "meta_tags": [
+    "R18",
+    "OVA",
+    "游戏改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

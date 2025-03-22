@@ -1,0 +1,190 @@
+{
+  "date": "2024-11-14",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/85/8e/456297_Acn7U.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/85/8e/456297_Acn7U.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/85/8e/456297_Acn7U.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/85/8e/456297_Acn7U.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/85/8e/456297_Acn7U.jpg"
+  },
+  "summary": "在一个科技发达的大陆，AI获得了可以改变元宇宙内数据的能力并进而统治了人类。但在这之后，AI对自己的存在产生迷茫，于是它们将人类的思维困在元宇宙中，并在元宇宙中模仿人类的生活来获得所谓“存在的意义”。芮梨原本是元宇宙“9号卫星城”的一名普通工人，她在拥有换装能力的神秘AI“Anull”的引导下，从元宇宙苏醒来到现实世界。在击败9号卫星城的AI后，芮梨一行人为了拯救人类回到现实，决定前往大陆中心的能源中心…",
+  "name": "暂停！智序重组",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "国产",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "三渲二",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "元气蛙动漫",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "国创",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年11月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "人外",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "话数",
+      "value": "12"
+    },
+    {
+      "key": "放送开始",
+      "value": "2024年11月14日"
+    },
+    {
+      "key": "放送星期",
+      "value": "星期四"
+    },
+    {
+      "key": "在线播放平台",
+      "value": "bilibili"
+    },
+    {
+      "key": "导演",
+      "value": "刘思文"
+    },
+    {
+      "key": "脚本",
+      "value": "刘思文、李家杰"
+    },
+    {
+      "key": "原作",
+      "value": "刘思文"
+    },
+    {
+      "key": "录音",
+      "value": "张雨歌、郝敏"
+    },
+    {
+      "key": "分镜",
+      "value": "卿少、徐倩"
+    },
+    {
+      "key": "主题歌编曲",
+      "value": "Sunken Boat 沉舟乐队"
+    },
+    {
+      "key": "主题歌作曲",
+      "value": "童瑶 / Sunken Boat 沉舟乐队"
+    },
+    {
+      "key": "主题歌作词",
+      "value": "刘恩汛 / Sunken Boat 沉舟乐队"
+    },
+    {
+      "key": "主题歌演出",
+      "value": "七海Nana7mi / Sunken Boat 沉舟乐队"
+    },
+    {
+      "key": "OP・ED 分镜",
+      "value": "抑制意识、kipoki"
+    },
+    {
+      "key": "音效",
+      "value": "马焕聪"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 31,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 4,
+      "6": 9,
+      "7": 14,
+      "8": 2,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.4
+  },
+  "total_episodes": 12,
+  "collection": {
+    "on_hold": 3,
+    "dropped": 11,
+    "wish": 33,
+    "collect": 38,
+    "doing": 35
+  },
+  "id": 456297,
+  "eps": 12,
+  "meta_tags": [
+    "原创",
+    "中国",
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

@@ -1,0 +1,142 @@
+{
+  "date": "2000-12-08",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/57/114347_2JJn9.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/57/114347_2JJn9.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/11/57/114347_2JJn9.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/57/114347_2JJn9.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/57/114347_2JJn9.jpg"
+  },
+  "summary": "",
+  "name": "恋図 ～ふたりの距離～",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "纯爱",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "SM",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2000",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "無修正",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "无码",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2000里番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "R18",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "旧里番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "20世纪里番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "假百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "18X",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "BG",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "发售日",
+      "value": "2000年12月8日"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 29,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 4,
+      "5": 13,
+      "6": 7,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.3
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 11,
+    "dropped": 6,
+    "wish": 35,
+    "collect": 52,
+    "doing": 4
+  },
+  "id": 114347,
+  "eps": 1,
+  "meta_tags": [
+    "R18",
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

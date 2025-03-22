@@ -1,0 +1,190 @@
+{
+  "date": "2013-07-07",
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/50/5f/208092_EGLr8.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/50/5f/208092_EGLr8.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/50/5f/208092_EGLr8.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/50/5f/208092_EGLr8.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/50/5f/208092_EGLr8.jpg"
+  },
+  "summary": "2013年7月から9月にかけて、テレビ東京での再放送の予告後に放送されたミニコーナー。ディフォルメのキャラがその回の反省会を行う。全話がBD/DVD第7巻に収録された。\r\nなお同年7月29日にニコニコ生放送において『踊り子クリノッペ』とのコラボ上映会で第1話から第4話までネット配信された。",
+  "name": "絶対防衛レヴィアタン ミニ 焚き火劇場",
+  "name_cn": "绝对防卫利维坦 篝火小剧场",
+  "tags": [
+    {
+      "name": "2013",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "GONZO",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小剧场",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "绝对防卫利维坦",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "井出安軌",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "二〇一三年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "八谷賢一",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "早見沙織",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "喜多村英梨",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "竹達彩奈",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "绝对防卫利维坦 篝火小剧场"
+    },
+    {
+      "key": "话数",
+      "value": "13"
+    },
+    {
+      "key": "放送开始",
+      "value": "2013年7月7日"
+    },
+    {
+      "key": "放送星期",
+      "value": "星期日"
+    },
+    {
+      "key": "播放结束",
+      "value": "2013年9月29日"
+    },
+    {
+      "key": "监修",
+      "value": "八谷賢一"
+    },
+    {
+      "key": "系列构成",
+      "value": "井出安軌"
+    },
+    {
+      "key": "脚本",
+      "value": "井出安軌"
+    },
+    {
+      "key": "人物设定",
+      "value": "大隈孝晴"
+    },
+    {
+      "key": "美术监督",
+      "value": "横山淳史"
+    },
+    {
+      "key": "色彩设计",
+      "value": "黒目綾子"
+    },
+    {
+      "key": "色彩指定",
+      "value": "黒目綾子"
+    },
+    {
+      "key": "分镜",
+      "value": "井出安軌、川越崇弘"
+    },
+    {
+      "key": "演出",
+      "value": "川越崇弘"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 3,
+      "6": 2,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.6
+  },
+  "total_episodes": 13,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 7,
+    "wish": 5,
+    "collect": 19,
+    "doing": 0
+  },
+  "id": 208092,
+  "eps": 13,
+  "meta_tags": [
+    "TV",
+    "日本"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

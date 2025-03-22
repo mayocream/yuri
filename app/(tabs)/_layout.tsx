@@ -1,5 +1,5 @@
 import { Tabs } from 'expo-router'
-import { Home, Settings } from '@tamagui/lucide-icons'
+import { Tv, Settings } from '@tamagui/lucide-icons'
 
 // Colors
 // https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors
@@ -32,8 +32,8 @@ export default function TabLayout() {
         name='index'
         options={{
           headerShown: false,
-          tabBarLabel: 'ホーム',
-          tabBarIcon: ({ size, color }) => <Home size={size} color={color} />,
+          tabBarLabel: 'アニメ',
+          tabBarIcon: ({ size, color }) => <Tv size={size} color={color} />,
         }}
       />
       <Tabs.Screen

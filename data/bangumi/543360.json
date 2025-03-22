@@ -1,0 +1,169 @@
+{
+  "date": null,
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/30/1b/543360_pqHc3.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/30/1b/543360_pqHc3.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/30/1b/543360_pqHc3.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/30/1b/543360_pqHc3.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/30/1b/543360_pqHc3.jpg"
+  },
+  "summary": "「上伊那ぼたん、酔へる姿は百合の花」は、20歳の大学1年生・上伊那ぼたんを軸にした物語。ぼたんと同じ寮で暮らす先輩たちが、お酒を通じて心を通わせていく日々が描かれる。作中には日本酒やウィスキー、ワインなど数多くのお酒が登場し、音楽や映画などお酒とともに楽しめるさまざまなカルチャーの描写がふんだんに盛り込まれている。",
+  "name": "上伊那ぼたん、酔へる姿は百合の花",
+  "name_cn": "上伊那牡丹，酒醉身姿似百合花般",
+  "tags": [
+    {
+      "name": "TV",
+      "count": 50,
+      "total_cont": 0
+    },
+    {
+      "name": "Soigne",
+      "count": 39,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 37,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "佐久间贵史",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "吉成钢",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "米内山阳子",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "户泽俊太郎",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "塀",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ソワネ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "酒",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "みやち",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "松尾祐辅",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "上伊那牡丹，酒醉身姿似百合花般"
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://kamiina-botan.com/"
+    },
+    {
+      "key": "Copyright",
+      "value": "©塀（秋田書店）／上伊那ぼたん製作委員会"
+    },
+    {
+      "key": "原作",
+      "value": "塀（秋田書店「チャンピオンクロス」連載）"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 3,
+    "dropped": 0,
+    "wish": 370,
+    "collect": 0,
+    "doing": 1
+  },
+  "id": 543360,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "漫画改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

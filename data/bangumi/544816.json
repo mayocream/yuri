@@ -1,0 +1,173 @@
+{
+  "date": "2026-01-01",
+  "platform": "剧场版",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/6d/9b/544816_Fwzr8.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6d/9b/544816_Fwzr8.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/6d/9b/544816_Fwzr8.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6d/9b/544816_Fwzr8.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/6d/9b/544816_Fwzr8.jpg"
+  },
+  "summary": "",
+  "name": "最終楽章 響け！ユーフォニアム",
+  "name_cn": "最终乐章 吹响吧！上低音号",
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 47,
+      "total_cont": 0
+    },
+    {
+      "name": "2026",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "京都动画",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "京阿尼",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "小说改",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "京吹",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "轻改",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2026年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "京都アニメーション",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "山田尚子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "吹响吧！上低音号",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "最终乐章 吹响吧！上低音号"
+    },
+    {
+      "key": "上映年度",
+      "value": "2026年"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://anime-eupho.com/"
+    },
+    {
+      "key": "Copyright",
+      "value": "©武田綾乃・宝島社／『響け！』製作委員会"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 7,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 1
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 8,
+    "dropped": 5,
+    "wish": 302,
+    "collect": 4,
+    "doing": 6
+  },
+  "id": 544816,
+  "eps": 0,
+  "meta_tags": [
+    "剧场版",
+    "校园",
+    "日本",
+    "音乐",
+    "小说改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

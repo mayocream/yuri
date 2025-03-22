@@ -1,0 +1,192 @@
+{
+  "date": "2022-07-27",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/b9/298654_00kB1.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/b9/298654_00kB1.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/a9/b9/298654_00kB1.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/b9/298654_00kB1.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/b9/298654_00kB1.jpg"
+  },
+  "summary": "今回は、ルビーたちが修学旅行に行くことに。\r\nけれど、ルビーの魔法で現れた観光会社のメンバーは怪しさいっぱいで…。\r\nルビーたちは修学旅行を楽しめるの？\r\nルビーたちジュエルペットはもちろん、謎のキャクターも登場するからお楽しみにね！\r\n",
+  "name": "ジュエルペット あたっくとらべる！",
+  "name_cn": "宝石宠物 Attack Travel！",
+  "tags": [
+    {
+      "name": "2022",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "苇PRODUCTION",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "加藤還一",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "豊崎愛生",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "葦プロダクション",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ねぎしひろし",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "沢城みゆき",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年7月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "平野綾",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "宝石宠物 Attack Travel！"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "发售日",
+      "value": "2022年7月27日"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://kukuriraige.com/jp-attack/index.html"
+    },
+    {
+      "key": "分镜",
+      "value": "さとう ふみかず"
+    },
+    {
+      "key": "演出",
+      "value": "中野敬太"
+    },
+    {
+      "key": "ジュエルペットアニメデザイン",
+      "value": "宮川知子"
+    },
+    {
+      "key": "メカデザイン",
+      "value": "いしはら いくろう"
+    },
+    {
+      "key": "美術監督",
+      "value": "下元 智子"
+    },
+    {
+      "key": "色彩設計",
+      "value": "島方亜矢子"
+    },
+    {
+      "key": "3DCGディレクター",
+      "value": "佐藤淳也"
+    },
+    {
+      "key": "3DCG制作",
+      "value": "アニミックス"
+    },
+    {
+      "key": "音楽",
+      "value": "西村真吾"
+    },
+    {
+      "key": "録音スタジオ",
+      "value": "studio tronc"
+    },
+    {
+      "key": "音響制作",
+      "value": "セイバーリンクス"
+    },
+    {
+      "key": "制片人",
+      "value": "ねぎしひろし、可知秀幸、山岡宏哉"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 2,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 3,
+    "dropped": 13,
+    "wish": 22,
+    "collect": 12,
+    "doing": 0
+  },
+  "id": 298654,
+  "eps": 1,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

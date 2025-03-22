@@ -1,0 +1,157 @@
+{
+  "date": "2025-01-01",
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/a1/d3/325767_TSs8U.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a1/d3/325767_TSs8U.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/a1/d3/325767_TSs8U.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a1/d3/325767_TSs8U.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/a1/d3/325767_TSs8U.jpg"
+  },
+  "summary": "お嬢様学校・黒美女子学院を舞台に、女子高生たちが対戦格闘ゲームに熱中する姿を描く物語。",
+  "name": "対ありでした。 ～お嬢さまは格闘ゲームなんてしない～",
+  "name_cn": "感谢对战。 ～大小姐才不玩格斗游戏～",
+  "tags": [
+    {
+      "name": "百合",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "市ノ瀬加那",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "長谷川育美",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "公司未公布",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "竞技",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "感谢对战。 ～大小姐才不玩格斗游戏～"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "大小姐才不玩格斗游戏"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "2025年"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://taiari-anime.com/"
+    },
+    {
+      "key": "Copyright",
+      "value": "©2025 江島絵理/KADOKAWA/「対ありでした。」製作委員会"
+    },
+    {
+      "key": "原作",
+      "value": "江島絵理"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 10
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 1,
+    "dropped": 4,
+    "wish": 96,
+    "collect": 1,
+    "doing": 3
+  },
+  "id": 325767,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "漫画改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

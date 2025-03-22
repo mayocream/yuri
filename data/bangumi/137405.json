@@ -1,0 +1,251 @@
+{
+  "date": "1958-03-16",
+  "platform": "剧场版",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/33/65/137405_Wsz1E.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/33/65/137405_Wsz1E.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/33/65/137405_Wsz1E.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/33/65/137405_Wsz1E.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/33/65/137405_Wsz1E.jpg"
+  },
+  "summary": "本片改编自童话故事《白雪皇后》，整部动画片弥漫着温馨的气息。",
+  "name": "Снежная королева",
+  "name_cn": "冰雪女王",
+  "tags": [
+    {
+      "name": "苏联",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "1958",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "欧美",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "苏联动画",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "俄罗斯",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "不良少女",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "女性英雄主义",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "吃小孩",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1950s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "精神控制",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Lev_Atamanov",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "AM",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "冰",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "-1970",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1950-1959",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "名著改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SNoW",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "THE",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "童话",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "傲娇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "宫崎骏",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "电影",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "失忆",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20世纪",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1957",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "监禁",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "冰雪女王"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "The Snow Queen"
+        },
+        {
+          "v": "Snezhnaya koroleva"
+        }
+      ]
+    },
+    {
+      "key": "上映年度",
+      "value": "1958-03-16"
+    },
+    {
+      "key": "片长",
+      "value": "55 分钟 / Argentina: 70 分钟 / Russia: 63 分钟 / USA: 74 分钟"
+    },
+    {
+      "key": "语言",
+      "value": "俄语"
+    },
+    {
+      "key": "IMDb链接",
+      "value": "tt0050987"
+    },
+    {
+      "key": "制片国家/地区",
+      "value": "苏联"
+    },
+    {
+      "key": "类型",
+      "value": "剧情 / 动画 / 家庭 / 奇幻"
+    },
+    {
+      "key": "导演",
+      "value": "Lev Atamanov / Phil Patton"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 32,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 3,
+      "6": 6,
+      "7": 9,
+      "8": 8,
+      "9": 2,
+      "10": 3
+    },
+    "score": 7.2
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 7,
+    "dropped": 6,
+    "wish": 39,
+    "collect": 48,
+    "doing": 2
+  },
+  "id": 137405,
+  "eps": 1,
+  "meta_tags": [
+    "剧场版",
+    "苏联"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

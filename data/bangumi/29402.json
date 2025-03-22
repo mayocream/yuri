@@ -1,0 +1,180 @@
+{
+  "date": "2011-03-01",
+  "platform": null,
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/59/89/29402_D2PXs.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/59/89/29402_D2PXs.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/59/89/29402_D2PXs.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/59/89/29402_D2PXs.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/59/89/29402_D2PXs.jpg"
+  },
+  "summary": "《狂热果核》是集合众多天朝野生CV的配音剧。\r\n由新月冰冰等业余配音爱好者表演；\r\n《拜见女皇陛下》作者ZCloud担任人设；\r\n剧本、音乐均为原创，场景也都为真实取材。\r\n故事主要讲述迷恋父亲的少女燕鸥如何战胜心魔、找回亲情，而逐渐成长的过程。\r\n适合15岁以上。\r\n\r\nACFUN全地址：http://www.acfun.tv/v/ac181480/\r\n优酷全地址：http://www.youku.com/playlist_show/id_5356166.html\r\nBILI全地址：http://www.bilibili.tv/video/av70624/\r\n土豆全地址：http://www.tudou.com/playlist/id11785756.html\r\n关于狂热果核的一切：http://www.acfun.tv/v/ac182535/ \r\n\r\n\r\n",
+  "name": "狂热果核",
+  "name_cn": "狂热果核",
+  "tags": [
+    {
+      "name": "国产",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "DCZLD",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "病娇",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2011",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "致郁",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "父控",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "问题儿童",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "黑暗",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "腹黑",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "重口味",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2010s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动态漫画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "5(0)",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Short",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "猎奇",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2011年3月",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "狂热果核"
+    },
+    {
+      "key": "话数",
+      "value": "12"
+    },
+    {
+      "key": "放送开始",
+      "value": "2011年3月"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://blog.sina.com.cn/s/blog_479e8d540100qih9.html"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 7,
+      "9": 1,
+      "10": 0
+    },
+    "score": 7
+  },
+  "total_episodes": 12,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 7,
+    "wish": 47,
+    "collect": 25,
+    "doing": 0
+  },
+  "id": 29402,
+  "eps": 12,
+  "meta_tags": [
+    "中国",
+    "动态漫画"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

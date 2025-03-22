@@ -1,0 +1,223 @@
+{
+  "date": "1989-04-28",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/9c/77940_aC66k.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/9c/77940_aC66k.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/17/9c/77940_aC66k.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/17/9c/77940_aC66k.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/17/9c/77940_aC66k.jpg"
+  },
+  "summary": "根据亨斯财团总裁亚瑟·G·亨斯的临终遗言，在贫民窟生活的少女克蕾欧巴朵拉成为了亨斯遗产的继承人。在四名干部的协助下，克蕾欧开始四出解决国际事件和家族阴谋…… ",
+  "name": "クレオパトラD.C.",
+  "name_cn": "妙龄女大亨",
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "1989",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "新谷かおる",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "鈴木宏昌",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "吉永尚之",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "人设赞",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "1989年4月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "J.C.STAFF",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "80年代",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "江幡宏之",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "富田祐弘",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1989年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "卖肉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "肉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "伊藤信雄",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1989年四月番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "老番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "結城信輝",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "冷门",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "青木康直",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "80s",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "妙龄女大亨"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Cleopatra D.C."
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "3"
+    },
+    {
+      "key": "发售日",
+      "value": "1989年4月28日"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 34,
+    "count": {
+      "1": 0,
+      "2": 3,
+      "3": 1,
+      "4": 2,
+      "5": 9,
+      "6": 11,
+      "7": 5,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.6
+  },
+  "total_episodes": 3,
+  "collection": {
+    "on_hold": 3,
+    "dropped": 6,
+    "wish": 38,
+    "collect": 48,
+    "doing": 6
+  },
+  "id": 77940,
+  "eps": 3,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

@@ -1,0 +1,209 @@
+{
+  "date": "2014-05-01",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/1f/36/136058_bkfNY.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/1f/36/136058_bkfNY.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/1f/36/136058_bkfNY.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/1f/36/136058_bkfNY.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/1f/36/136058_bkfNY.jpg"
+  },
+  "summary": "1000酱！SSD动画全集1000酱本名是OZS-1000，昵称1000ちゃん，口头禅是著名的：おっ昼だぁ〜☆☆☆，是OIZUMI的新任宣传担当，CV：新田惠海。1000酱的耳朵其实是太阳能充电板，可以直接把太阳能转化成1000酱需要的电 眼睛是一个大字 胸口的投币口叫做“seal”。可以打开，打开之后会解除1000酱的封印（这是官方设定，别用奇怪的眼神看我 腰后面那块白色的其实是翅膀，需要飞的时候会打开变成半透明的蓝色。飞行速度相当惊人 三围72 58 76 喜欢的东西是硬币",
+  "name": "1000ちゃん",
+  "name_cn": "1000酱！",
+  "tags": [
+    {
+      "name": "2014",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "萝莉",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "新田惠海，OIZUMI",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "2014年5月",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "萌",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "2014年四月番",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2014年",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "OIZUMI",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "周三晚上",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "期待",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "1000酱！"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "1000ちゃんスペシャルショートドラマ"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "8"
+    },
+    {
+      "key": "放送开始",
+      "value": "2014-05-01"
+    },
+    {
+      "key": "放送星期",
+      "value": "星期四"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://www.oizumi.co.jp/1000chan/"
+    },
+    {
+      "key": "播放电视台",
+      "value": "Youtube"
+    },
+    {
+      "key": "播放结束",
+      "value": "2014-11-21"
+    },
+    {
+      "key": "脚本",
+      "value": "西川真音"
+    },
+    {
+      "key": "演出",
+      "value": "西川真音"
+    },
+    {
+      "key": "背景美术",
+      "value": "工藤雄飛"
+    },
+    {
+      "key": "原案",
+      "value": "オーイズミ"
+    },
+    {
+      "key": "企画",
+      "value": "工画堂スタジオ、オーイズミ"
+    },
+    {
+      "key": "录音",
+      "value": "安倍康幸"
+    },
+    {
+      "key": "录音助理",
+      "value": "川和浩之、南夽知"
+    },
+    {
+      "key": "制作",
+      "value": "工画堂スタジオ、オーイズミ"
+    },
+    {
+      "key": "音乐制作",
+      "value": "入江信子、倉田涼"
+    },
+    {
+      "key": "友情協力",
+      "value": "シグマ・セブン、ホーリーピーク、S、マウスプロモーション"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 12,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 2,
+      "7": 1,
+      "8": 3,
+      "9": 2,
+      "10": 2
+    },
+    "score": 7.6
+  },
+  "total_episodes": 8,
+  "collection": {
+    "on_hold": 14,
+    "dropped": 10,
+    "wish": 103,
+    "collect": 23,
+    "doing": 5
+  },
+  "id": 136058,
+  "eps": 8,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

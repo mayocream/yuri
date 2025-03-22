@@ -1,0 +1,176 @@
+{
+  "date": "2001-09-25",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/55/58/123789_R1rcn.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/55/58/123789_R1rcn.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/55/58/123789_R1rcn.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/55/58/123789_R1rcn.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/55/58/123789_R1rcn.jpg"
+  },
+  "summary": "僕の名前は「もとき」って言います。\r\nなんの変哲もない普通の暮らしを送っていたい僕なのに…周りは普通じゃない人で一杯！\r\n「恵お姉ちゃん」と「英香お姉ちゃん」に、\r\n親友「雄司」とお姉さんの「えみちゃん」そして僕の憧れの「なつきさん」。\r\nみんな、なんだかとってもHなんだ。\r\nもう普通の生活に戻れないよう！\r\n助けて！",
+  "name": "爆発寸前!!天使のカウントダウン",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 23,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2001",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "BL",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "步兵",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2001里番",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "R18",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "無修正",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "女s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "无条目",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "假百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "D02",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "惩罚",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "吉野裕行",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "BG",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "无码",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "步兵裡番",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Bakuhatsu Sunzen!! Tenshi no Countdown"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "发售日",
+      "value": "2001年9月25日"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 20,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 9,
+      "6": 8,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.6
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 18,
+    "dropped": 9,
+    "wish": 27,
+    "collect": 44,
+    "doing": 4
+  },
+  "id": 123789,
+  "eps": 1,
+  "meta_tags": [
+    "R18",
+    "日本",
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

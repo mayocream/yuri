@@ -1,0 +1,309 @@
+{
+  "date": "2018-01-06",
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/37/4a/212279_iG7S3.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/37/4a/212279_iG7S3.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/37/4a/212279_iG7S3.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/37/4a/212279_iG7S3.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/37/4a/212279_iG7S3.jpg"
+  },
+  "summary": "由于King Records的疏忽，电视动画和第三季同时展开的梦想土崩瓦解……。\r\n二人究竟能否在动画播出之前幸存下来……？",
+  "name": "ポプテピピック",
+  "name_cn": "pop子和pipi美的日常",
+  "tags": [
+    {
+      "name": "搞笑",
+      "count": 1484,
+      "total_cont": 0
+    },
+    {
+      "name": "神風動画",
+      "count": 1199,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年1月",
+      "count": 1123,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 906,
+      "total_cont": 0
+    },
+    {
+      "name": "玩梗",
+      "count": 869,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 785,
+      "total_cont": 0
+    },
+    {
+      "name": "2018",
+      "count": 531,
+      "total_cont": 0
+    },
+    {
+      "name": "霸权",
+      "count": 500,
+      "total_cont": 0
+    },
+    {
+      "name": "pop子和pipi美的日常",
+      "count": 456,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 401,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面番",
+      "count": 313,
+      "total_cont": 0
+    },
+    {
+      "name": "电波",
+      "count": 245,
+      "total_cont": 0
+    },
+    {
+      "name": "神风动画",
+      "count": 210,
+      "total_cont": 0
+    },
+    {
+      "name": "kuso",
+      "count": 117,
+      "total_cont": 0
+    },
+    {
+      "name": "TＶ",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "TV　",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "TⅤ",
+      "count": 46,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "青木純",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "恶搞",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "大川ぶくぶ",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "梅木葵",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "神经病",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "粪动画",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "2018年一月番",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "青木纯",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 11,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "pop子和pipi美的日常"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "POP TEAM EPIC"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "12"
+    },
+    {
+      "key": "放送开始",
+      "value": "2018年1月6日"
+    },
+    {
+      "key": "放送星期",
+      "value": "星期六"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://hoshiiro.jp/"
+    },
+    {
+      "key": "播放电视台",
+      "value": "TOKYO MX"
+    },
+    {
+      "key": "其他电视台",
+      "value": "BS11 / AT-X / とちぎテレビ / 中国放送"
+    },
+    {
+      "key": "播放结束",
+      "value": "2018年3月24日"
+    },
+    {
+      "key": "Copyright",
+      "value": "© 大川ぶくぶ / 竹書房・キングレコード"
+    },
+    {
+      "key": "原作",
+      "value": "大川ぶくぶ（竹書房「まんがライフ WIN」）"
+    },
+    {
+      "key": "系列构成",
+      "value": "青木純(スペースネコカンパニー)"
+    },
+    {
+      "key": "概念设计",
+      "value": "梅木葵"
+    },
+    {
+      "key": "音响监督",
+      "value": "鐘江徹"
+    },
+    {
+      "key": "系列监督",
+      "value": "青木純、梅木葵"
+    },
+    {
+      "key": "企画",
+      "value": "須藤孝太郎"
+    },
+    {
+      "key": "制片人",
+      "value": "須藤孝太郎"
+    },
+    {
+      "key": "製作",
+      "value": "キングレコード"
+    },
+    {
+      "key": "制作",
+      "value": "神風動画、スペースネコカンパニー、AC部"
+    },
+    {
+      "key": "粪漫画顾问",
+      "value": "大川ぶくぶ"
+    },
+    {
+      "key": "岛中作家",
+      "value": "大川ぶくぶ"
+    },
+    {
+      "key": "大学中退",
+      "value": "大川ぶくぶ"
+    },
+    {
+      "key": "虚拟Youtuber",
+      "value": "大川ぶくぶ"
+    },
+    {
+      "key": "脚本",
+      "value": "木戸雄一郎(POP TEAM STORY)"
+    },
+    {
+      "key": "光的战士",
+      "value": "大川ぶくぶ"
+    }
+  ],
+  "rating": {
+    "rank": 8255,
+    "total": 6114,
+    "count": {
+      "1": 1055,
+      "2": 103,
+      "3": 120,
+      "4": 167,
+      "5": 720,
+      "6": 1316,
+      "7": 1325,
+      "8": 766,
+      "9": 266,
+      "10": 276
+    },
+    "score": 5.6
+  },
+  "total_episodes": 16,
+  "collection": {
+    "on_hold": 514,
+    "dropped": 831,
+    "wish": 664,
+    "collect": 9270,
+    "doing": 659
+  },
+  "id": 212279,
+  "eps": 12,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "漫画改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

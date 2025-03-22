@@ -1,0 +1,114 @@
+{
+  "date": null,
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/16/02/211055_ulouz.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/16/02/211055_ulouz.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/16/02/211055_ulouz.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/16/02/211055_ulouz.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/16/02/211055_ulouz.jpg"
+  },
+  "summary": "しっかり者の姉・ハル、どこか抜けている妹・アキ。中学生の双子の姉妹。\r\n\r\nとある夏の日。ハルは不慮の事故で亡くなってしまう。\r\n悲しみに暮れるアキ。ひょんなことからハルの遺品であるテルテル坊主の晴る坊が動き出す。逃げてゆく晴る坊にハルを感じたアキはそれを追いかける。\r\n中学生の持つ純粋さと初々しさ、最後まで諦めない泥臭さと熱さ。そして、悲しみの雨の後には、喜びの虹が架かる！",
+  "name": "ハルの虹の葬式",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "短片",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2016",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "IndieAnime",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "其它",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "上映年度",
+      "value": "2016-12-27"
+    },
+    {
+      "key": "片长",
+      "value": "7min 45s"
+    },
+    {
+      "key": "制作",
+      "value": "スタジオ星"
+    },
+    {
+      "key": "原作",
+      "value": "星智崇"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "导演",
+      "value": "星智崇"
+    },
+    {
+      "key": "企划",
+      "value": "星智崇"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 7,
+    "count": {
+      "1": 0,
+      "2": 1,
+      "3": 1,
+      "4": 0,
+      "5": 4,
+      "6": 1,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.4
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 6,
+    "wish": 12,
+    "collect": 15,
+    "doing": 1
+  },
+  "id": 211055,
+  "eps": 1,
+  "meta_tags": [],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

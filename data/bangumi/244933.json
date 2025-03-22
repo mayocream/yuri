@@ -1,0 +1,233 @@
+{
+  "date": null,
+  "platform": "剧场版",
+  "images": {
+    "small": "",
+    "grid": "",
+    "large": "",
+    "medium": "",
+    "common": ""
+  },
+  "summary": "",
+  "name": "プリンセス・プリンシパル Crown Handler 第6章",
+  "name_cn": "Princess Principal Crown Handler 第6章",
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "Actas",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Studio3Hz",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "古賀葵",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "PrincessPrincipal",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "续章",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "プリンセス・プリンシパル",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "谍战",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "関根明良",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "木村暢",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "梶浦由记",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "悬疑",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "movie",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "补",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "橘正紀",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "木村畅",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アクタス",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "橘正纪",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "Princess Principal Crown Handler 第6章"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "公主代理人 Crown Handler 第6章"
+        },
+        {
+          "v": "公主委托人 Crown Handler 第6章"
+        },
+        {
+          "v": "公主准则 Crown Handler 第6章"
+        }
+      ]
+    },
+    {
+      "key": "官方网站",
+      "value": "www.pripri-anime.jp"
+    },
+    {
+      "key": "Copyright",
+      "value": "© Princess Principal Film Project"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 1
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 6,
+    "dropped": 4,
+    "wish": 190,
+    "collect": 6,
+    "doing": 7
+  },
+  "id": 244933,
+  "eps": 1,
+  "meta_tags": [
+    "剧场版"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

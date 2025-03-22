@@ -1,0 +1,184 @@
+{
+  "date": "1988-12-21",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/18/8a/78052_B53S5.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/18/8a/78052_B53S5.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/18/8a/78052_B53S5.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/18/8a/78052_B53S5.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/18/8a/78052_B53S5.jpg"
+  },
+  "summary": "数々のヒットを生み出してきた少女漫画家・山岸凉子の同名原作をもとに、邪悪な女王クイーン・マブから妖精の王国を守る少年・爵の冒険を描くスペクタクルファンタジー。忍海爵は、東京から北海道に病気療養に来た高校生。美しい自然に囲まれ、平穏に暮らしていた爵だったが、やがて周囲に奇妙な出来事が起こるようになる。それは爵の持つ使命が理由だった。月影の窓を抜けて、妖精王の国ニンフィディアに迷い込んだ爵は、妖精王の第一従者のクーフーリンから、妖精国を守るという自分の使命を聞くのだった。",
+  "name": "妖精王",
+  "name_cn": "妖精王",
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "1988",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "MADHouse",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "山田勝久",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "山田胜久",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "三ツ矢雄二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "福島宏之",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "85-89",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "金春智子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "富山敬",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "池田昌子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "耽美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动漫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1988年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "恩田尚之",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "妖精王"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "发售日",
+      "value": "1988-12-21"
+    },
+    {
+      "key": "导演",
+      "value": "山田勝久"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 15,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 2,
+      "4": 1,
+      "5": 4,
+      "6": 4,
+      "7": 3,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.7
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 3,
+    "dropped": 4,
+    "wish": 14,
+    "collect": 23,
+    "doing": 1
+  },
+  "id": 78052,
+  "eps": 1,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

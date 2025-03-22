@@ -1,0 +1,158 @@
+{
+  "date": "2009-06-06",
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/b8/a2/74932_77WiI.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b8/a2/74932_77WiI.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/b8/a2/74932_77WiI.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b8/a2/74932_77WiI.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/b8/a2/74932_77WiI.jpg"
+  },
+  "summary": "原作は、藤真拓哉によるフリーペーパー『ブシロードTCGマガジン』掲載の漫画。TBS系『カード学園』の中で「ぷちアニメ」として各話約2分半ほどで構成された、「ヴァイスシュヴァルツ」というトレーディングカードゲームを題材としたギャグアニメの続編。\r\n前作最終話で、実はミチの「自分を負かせるほど強い人がいたら……」という願いを叶えるため、カードバトルの世界に召還されたとわかった二人。だが、元の世界に戻ってくると同時に、カードバトル世界での出来事を忘れてしまう。一瞬の夢としか覚えていないにもかかわらず、カードを好きという思いは忘れていないタケシ。新シリーズでは、カードゲームに打ち込むタケシとミチが、再びVS（バーサス）じいさんと出会い、記憶を取り戻すことから始まる！",
+  "name": "ヴァイス・サヴァイヴ",
+  "name_cn": "Weiss Survive",
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "2009",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2009年6月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2009-09",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "青梅竹马",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "看过",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "Weiss Survive"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Weiss Survive"
+        },
+        {
+          "v": "Weiß Survive"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "16"
+    },
+    {
+      "key": "放送开始",
+      "value": "2009年6月6日"
+    },
+    {
+      "key": "官方网站",
+      "value": "http://ws-tcg.com/anime/ep_01.html"
+    },
+    {
+      "key": "播放电视台",
+      "value": "TBS"
+    },
+    {
+      "key": "播放结束",
+      "value": "2009年9月26日"
+    },
+    {
+      "key": "Copyright",
+      "value": "ブシロード"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 25,
+    "count": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 2,
+      "5": 6,
+      "6": 9,
+      "7": 3,
+      "8": 2,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.4
+  },
+  "total_episodes": 16,
+  "collection": {
+    "on_hold": 7,
+    "dropped": 7,
+    "wish": 47,
+    "collect": 52,
+    "doing": 3
+  },
+  "id": 74932,
+  "eps": 16,
+  "meta_tags": [
+    "TV",
+    "日本"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

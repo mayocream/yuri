@@ -1,0 +1,238 @@
+{
+  "date": "2020-08-15",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/20/d5/416819_27eI4.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/20/d5/416819_27eI4.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/20/d5/416819_27eI4.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/20/d5/416819_27eI4.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/20/d5/416819_27eI4.jpg"
+  },
+  "summary": "NTTドコモ ドコモの学割キャンペーン タイアップソング",
+  "name": "それを爱と呼ぶだけ",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "短片",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "2020",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "MV",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "ちな",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "ENISHIYA",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "TOHOanimationSTUDIO",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "CM",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TOHO",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "Tia",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Moaang",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片与MV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020年8月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Studio",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Animation",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2020年",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "放送开始",
+      "value": "2020年8月15日"
+    },
+    {
+      "key": "播放网站",
+      "value": "https://www.youtube.com/watch?v=bMwLJHWP1UE"
+    },
+    {
+      "key": "导演",
+      "value": "ちな"
+    },
+    {
+      "key": "人物原案",
+      "value": "ちな"
+    },
+    {
+      "key": "人物设定",
+      "value": "Moaang"
+    },
+    {
+      "key": "作画监督",
+      "value": "Moaang"
+    },
+    {
+      "key": "色彩设计",
+      "value": "末永絢子"
+    },
+    {
+      "key": "色彩指定",
+      "value": "末永絢子"
+    },
+    {
+      "key": "美术监督",
+      "value": "板倉佐賀子"
+    },
+    {
+      "key": "摄影监督",
+      "value": "神田智隆"
+    },
+    {
+      "key": "动画制片人",
+      "value": "五十嵐慶"
+    },
+    {
+      "key": "动画制作",
+      "value": "TIA(TOHO animation STUDIO) × ENISHIYA"
+    },
+    {
+      "key": "原画",
+      "value": "石山正修、岩澤亨、MYOUN、曽々木安恵、榎戸駿、ちな、Moaang"
+    },
+    {
+      "key": "第二原画",
+      "value": "新井博慧、さく"
+    },
+    {
+      "key": "动画检查",
+      "value": "川本由記子、太田彬彦"
+    },
+    {
+      "key": "主题歌演出",
+      "value": "まふまふ"
+    },
+    {
+      "key": "主题歌编曲",
+      "value": "まふまふ"
+    },
+    {
+      "key": "主题歌作词",
+      "value": "まふまふ"
+    },
+    {
+      "key": "主题歌作曲",
+      "value": "まふまふ"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 27,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 8,
+      "7": 11,
+      "8": 4,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.7
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 2,
+    "wish": 9,
+    "collect": 46,
+    "doing": 0
+  },
+  "id": 416819,
+  "eps": 1,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

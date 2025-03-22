@@ -1,0 +1,230 @@
+{
+  "date": "2022-08-24",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/a6/c1/448391_ZzE0J.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a6/c1/448391_ZzE0J.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/a6/c1/448391_ZzE0J.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a6/c1/448391_ZzE0J.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/a6/c1/448391_ZzE0J.jpg"
+  },
+  "summary": "MyGO!!!!!メンバーの日常\r\n\r\n「MyGO!!!!!」とは\r\nバンドリ！から生まれる\"現実\"と\"仮想\"が同期するバンド。",
+  "name": "MyGO!!!!!メンバーの日常",
+  "name_cn": "MyGO!!!!!成员的日常生活",
+  "tags": [
+    {
+      "name": "泡面番",
+      "count": 183,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 136,
+      "total_cont": 0
+    },
+    {
+      "name": "BanGDream",
+      "count": 128,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 101,
+      "total_cont": 0
+    },
+    {
+      "name": "2022",
+      "count": 94,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 92,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 77,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 71,
+      "total_cont": 0
+    },
+    {
+      "name": "乐队",
+      "count": 63,
+      "total_cont": 0
+    },
+    {
+      "name": "MYGO",
+      "count": 61,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "偶像",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "番外",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "W-toonStudio",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "沙雕",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "森井健史郎",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "ダブトゥーンスタジオ",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年7月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "SP",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "森井ケンシロウ",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "催眠app",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "MyGO!!!!!",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2022年8月",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 3,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "MyGO!!!!!成员的日常生活"
+    },
+    {
+      "key": "话数",
+      "value": "44"
+    },
+    {
+      "key": "放送开始",
+      "value": "2022年8月24日"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://www.youtube.com/@bang_dream_mygo"
+    },
+    {
+      "key": "在线播放平台",
+      "value": "YouTube"
+    },
+    {
+      "key": "导演",
+      "value": "森井ケンシロウ"
+    }
+  ],
+  "rating": {
+    "rank": 5446,
+    "total": 503,
+    "count": {
+      "1": 5,
+      "2": 0,
+      "3": 3,
+      "4": 8,
+      "5": 78,
+      "6": 180,
+      "7": 169,
+      "8": 43,
+      "9": 5,
+      "10": 12
+    },
+    "score": 6.4
+  },
+  "total_episodes": 44,
+  "collection": {
+    "on_hold": 27,
+    "dropped": 20,
+    "wish": 230,
+    "collect": 829,
+    "doing": 142
+  },
+  "id": 448391,
+  "eps": 44,
+  "meta_tags": [
+    "百合",
+    "原创",
+    "日常",
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

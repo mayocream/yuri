@@ -1,0 +1,145 @@
+{
+  "date": null,
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/b5/81/506149_zU32J.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/b5/81/506149_zU32J.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/b5/81/506149_zU32J.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/b5/81/506149_zU32J.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/b5/81/506149_zU32J.jpg"
+  },
+  "summary": "「月刊コミックガーデン」「MAGCOMI」にて好評連載中の異能バトル漫画『リィンカーネーションの花弁』（著：小西幹久）。自らの肉体を切り裂き、前世からの才能を掘り起こす“輪廻の枝”。その才能は偉人達のみならず罪人達の異才も引き出してしまう。自分が無才であるが故に強く才能に飢えている高校生・扇寺東耶（せんじ とうや）が手にした才能で自分の過去と未来に立ち向かう物語である本作のTVアニメ化が決定した。この発表に合わせてアニメ化決定記念ビジュアル・原作特別PVが公開されている。\r\n\r\n自らの首を切ることで前世の才能を得ることができる“輪廻の枝”。優秀な兄と比べられて育ち、自分が無才であることに劣等感を持っている主人公の扇寺 東耶（せんじ とうや）は、勉学を最後の砦と決めており、全国模試で毎回100位以内に入るほどの学力を持ちながらも満足できずにいる。そんなある日、クラスメイトであり“輪廻の枝”にて前世の才能を得た「廻り者（まわりもの）」の灰都=ルオ=ブフェットがシリアルキラーと戦う場面に遭遇してしまう。",
+  "name": "リィンカーネーションの花弁",
+  "name_cn": "轮回的花瓣",
+  "tags": [
+    {
+      "name": "漫画改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "轻小说改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "轮回的花瓣"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Reincarnation no Kaben"
+        },
+        {
+          "v": "Petals of Reincarnation"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://petals-of-reincarnation-anime.com/"
+    },
+    {
+      "key": "Copyright",
+      "value": "©小西幹久／マッグガーデン・「リィンカーネーションの花弁」製作委員会"
+    },
+    {
+      "key": "原作",
+      "value": "小西幹久"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 2,
+    "wish": 33,
+    "collect": 0,
+    "doing": 1
+  },
+  "id": 506149,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "漫画改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

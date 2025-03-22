@@ -1,0 +1,147 @@
+{
+  "date": "2024-09-20",
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/03/1e/514048_PItiM.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/03/1e/514048_PItiM.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/03/1e/514048_PItiM.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/03/1e/514048_PItiM.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/03/1e/514048_PItiM.jpg"
+  },
+  "summary": "ある日るみなは親友のうろこの秘密を知ってしまう。\r\nけれどそんなるみなも親友に秘密にしていることがあった。\r\nFRENZ 2024出展の自主制作アニメです。\r\n\r\nアニメーション・・・石川直哉\r\n音楽・・・森田俊輔\r\n\r\nキャスト\r\nるみな＆らっぷ・・・梓来有未\r\nうろこ＆ストラ・・・吉田瑠衣",
+  "name": "ひみつどうし",
+  "name_cn": "秘密关系",
+  "tags": [
+    {
+      "name": "短片",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "石川直哉",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年9月",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "短篇",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "真百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片与MV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "秘密关系"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "秘密伙伴"
+        },
+        {
+          "v": "短編百合アニメ「ひみつどうし」"
+        }
+      ]
+    },
+    {
+      "key": "上映年度",
+      "value": "2024年9月20日"
+    },
+    {
+      "key": "片长",
+      "value": "1分39秒"
+    },
+    {
+      "key": "在线播放",
+      "value": "https://www.youtube.com/watch?v=jGe50c5Plds"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 30,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 5,
+      "5": 9,
+      "6": 12,
+      "7": 2,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.5
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 3,
+    "wish": 11,
+    "collect": 63,
+    "doing": 0
+  },
+  "id": 514048,
+  "eps": 1,
+  "meta_tags": [],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

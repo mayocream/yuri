@@ -1,0 +1,156 @@
+{
+  "date": "2025-04-01",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/80/93/529751_U82AL.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/80/93/529751_U82AL.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/80/93/529751_U82AL.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/80/93/529751_U82AL.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/80/93/529751_U82AL.jpg"
+  },
+  "summary": "カードに宿る物語(ストーリー)が紡がれる・・・\r\n\r\nプロモーションショートアニメシリーズ\r\n「Yu Gi Oh! CARD GAME THE CHRONICLES」2025年4月よりYouTube「遊戯王OCGチャンネル」にて毎月公開決定！",
+  "name": "Yu-Gi-Oh! CARD GAME THE CHRONICLES",
+  "name_cn": "游戏王 卡图故事编年史",
+  "tags": [
+    {
+      "name": "游戏王",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "KONAMIANIMATION",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年4月",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "闪刀姬",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "YGO",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "游戏王 卡图故事编年史"
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "2025年4月"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://www.konami.com/yugioh/thechronicles/"
+    },
+    {
+      "key": "在线播放平台",
+      "value": "YouTube"
+    },
+    {
+      "key": "Copyright",
+      "value": "©スタジオ・ダイス／集英社・テレビ東京・KONAMI ©Konami Digital Entertainment"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 4,
+    "wish": 119,
+    "collect": 2,
+    "doing": 11
+  },
+  "id": 529751,
+  "eps": 0,
+  "meta_tags": [
+    "科幻",
+    "日本",
+    "奇幻",
+    "游戏改",
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

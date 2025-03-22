@@ -1,0 +1,203 @@
+{
+  "date": null,
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/53/08/481117_4U04w.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/53/08/481117_4U04w.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/53/08/481117_4U04w.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/53/08/481117_4U04w.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/53/08/481117_4U04w.jpg"
+  },
+  "summary": "“我的梦想，是带顺德美食走向世界！”\r\n“得就得，唔得就返顺德～”\r\n \r\n因顺德美食结缘，两位少女的青春成长之旅，即将起航！",
+  "name": "厨出凤城",
+  "name_cn": "厨出凤城",
+  "tags": [
+    {
+      "name": "国创",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "国产",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "画枚动画",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "中国动画",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "美食",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "喵社绘动画",
+      "count": 8,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "歪歪",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "顺德",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "動畫片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "郁伊园",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "粤语",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "国产动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "国漫",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未开播",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "厨出凤城"
+    },
+    {
+      "key": "话数",
+      "value": "12"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "导演",
+      "value": "歪歪"
+    },
+    {
+      "key": "原作",
+      "value": "刘超"
+    },
+    {
+      "key": "出品人",
+      "value": "刘超"
+    },
+    {
+      "key": "联合出品",
+      "value": "画枚动画"
+    },
+    {
+      "key": "动画制作",
+      "value": "画枚动画、喵社绘动画"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.5
+  },
+  "total_episodes": 12,
+  "collection": {
+    "on_hold": 6,
+    "dropped": 2,
+    "wish": 265,
+    "collect": 1,
+    "doing": 5
+  },
+  "id": 481117,
+  "eps": 12,
+  "meta_tags": [
+    "原创",
+    "中国",
+    "美食",
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

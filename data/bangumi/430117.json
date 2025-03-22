@@ -1,0 +1,102 @@
+{
+  "date": null,
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/9d/18/430117_BH2IC.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/9d/18/430117_BH2IC.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/9d/18/430117_BH2IC.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/9d/18/430117_BH2IC.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/9d/18/430117_BH2IC.jpg"
+  },
+  "summary": "Animation：G子\r\nBackground Assit：G子, 浪岡ヨリ\r\nColoration：さわら\r\nLogo Design：日俣千樹\r\n\r\nArranger：Naoki Itai（MUSIC FOR MUSIC）\r\nRecording & Mixing Engineer：MEG（MUSIC FOR MUSIC）\r\nVocal Recording Engineer：Tomomi Ogata（MUSIC FOR MUSIC）\r\nMastering Engineer：山崎 翼（Flugel Mastering）",
+  "name": "月詠み『月が満ちる』Music Video",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "短片",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "MV",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "导演",
+      "value": "G子"
+    },
+    {
+      "key": "主题歌演出",
+      "value": "月詠み"
+    },
+    {
+      "key": "上映年度",
+      "value": "2022年8月17日"
+    },
+    {
+      "key": "片长",
+      "value": "3:26"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://www.youtube.com/watch?v=EtjDLZKL1rc"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0,
+      "6": 2,
+      "7": 4,
+      "8": 0,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.6
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 2,
+    "wish": 1,
+    "collect": 13,
+    "doing": 0
+  },
+  "id": 430117,
+  "eps": 1,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

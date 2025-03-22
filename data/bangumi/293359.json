@@ -1,0 +1,161 @@
+{
+  "date": "2019-09-02",
+  "platform": "剧场版",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/ac/d7/293359_ngDiG.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/ac/d7/293359_ngDiG.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/ac/d7/293359_ngDiG.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/ac/d7/293359_ngDiG.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/ac/d7/293359_ngDiG.jpg"
+  },
+  "summary": "　　讲述史蒂文以为他保护地球的日子结束了，但新的反派来到沙滩市，史蒂文平静美丽的日子也完了，他遇到了人生中最大的挑战。",
+  "name": "Steven Universe: The Movie",
+  "name_cn": "史蒂文的宇宙大电影",
+  "tags": [
+    {
+      "name": "欧美",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "2019",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "史蒂文的宇宙",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "堀刚史",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "动画电影",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "STEVEN",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "宇宙小子",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "cn",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "美国",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "universe",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "CARTOONNETWORK",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "史蒂文的宇宙大电影"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "宇宙小子大电影"
+        }
+      ]
+    },
+    {
+      "key": "上映年度",
+      "value": "2019-09-02"
+    },
+    {
+      "key": "片长",
+      "value": "90分钟"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://www.stevenuniversethemovie.com/"
+    },
+    {
+      "key": "imdb_id",
+      "value": "tt10515852"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 27,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 7,
+      "7": 9,
+      "8": 7,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.9
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 6,
+    "wish": 8,
+    "collect": 36,
+    "doing": 2
+  },
+  "id": 293359,
+  "eps": 1,
+  "meta_tags": [
+    "剧场版",
+    "欧美"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

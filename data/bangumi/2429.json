@@ -1,0 +1,169 @@
+{
+  "date": "2009-07-04",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/a9/36/2429_y3G33.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/a9/36/2429_y3G33.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/a9/36/2429_y3G33.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/a9/36/2429_y3G33.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/a9/36/2429_y3G33.jpg"
+  },
+  "summary": "最近web漫画を描いてるんだけど、ディズ二ーからアニメ化の話が来なかったので、自分でアニメ化することにしたよ。普通のアニメみたいに毎週土曜に一話ずつ更新していきます。",
+  "name": "するめいか",
+  "name_cn": "乌贼",
+  "tags": [
+    {
+      "name": "吐槽",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "黒歴史",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2009",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "王侯貴族のためのするめいか",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "傲娇",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ルーツ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小岩井ことり",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "ONA",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "乌贼"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "するめいか（第1期）"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "13"
+    },
+    {
+      "key": "放送开始",
+      "value": "2009年7月4日"
+    },
+    {
+      "key": "播放电视台",
+      "value": "ニコニコ動画"
+    },
+    {
+      "key": "播放结束",
+      "value": "2009年9月26日"
+    },
+    {
+      "key": "其他",
+      "value": "网络配信"
+    },
+    {
+      "key": "原作",
+      "value": "ルーツ"
+    },
+    {
+      "key": "导演",
+      "value": "ルーツ"
+    },
+    {
+      "key": "系列构成",
+      "value": "ルーツ"
+    },
+    {
+      "key": "人物设定",
+      "value": "ルーツ"
+    },
+    {
+      "key": "音乐",
+      "value": "☆モネ☆"
+    },
+    {
+      "key": "制作",
+      "value": "ルーツ"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 1,
+      "7": 2,
+      "8": 2,
+      "9": 1,
+      "10": 0
+    },
+    "score": 6.9
+  },
+  "total_episodes": 13,
+  "collection": {
+    "on_hold": 4,
+    "dropped": 6,
+    "wish": 30,
+    "collect": 7,
+    "doing": 1
+  },
+  "id": 2429,
+  "eps": 13,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

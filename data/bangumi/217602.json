@@ -1,0 +1,121 @@
+{
+  "date": null,
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/36/04/217602_QcZiC.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/36/04/217602_QcZiC.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/36/04/217602_QcZiC.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/36/04/217602_QcZiC.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/36/04/217602_QcZiC.jpg"
+  },
+  "summary": "",
+  "name": "女子について",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "短片",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "KOJO.TANNO",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "动画短片",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2009",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "undefined",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "其它",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "四星",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "JOSHI ni tsuite"
+        }
+      ]
+    },
+    {
+      "key": "上映年度",
+      "value": "2009-01-14"
+    },
+    {
+      "key": "片长",
+      "value": "1min 22s"
+    },
+    {
+      "key": "制作",
+      "value": "KOJO TANNO"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 17,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 3,
+      "6": 6,
+      "7": 7,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.4
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 1,
+    "dropped": 4,
+    "wish": 9,
+    "collect": 30,
+    "doing": 0
+  },
+  "id": 217602,
+  "eps": 0,
+  "meta_tags": [],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

@@ -1,0 +1,116 @@
+{
+  "date": null,
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/5b/b1/538296_9cd58.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/5b/b1/538296_9cd58.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/5b/b1/538296_9cd58.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/5b/b1/538296_9cd58.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/5b/b1/538296_9cd58.jpg"
+  },
+  "summary": "",
+  "name": "気になってる人が男じゃなかった",
+  "name_cn": "在意的人不是他",
+  "tags": [
+    {
+      "name": "百合",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "摇滚",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "公司未公布",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "在意的人不是他"
+    },
+    {
+      "key": "上映年度",
+      "value": "*"
+    },
+    {
+      "key": "原作",
+      "value": "新井すみこ"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 1,
+    "dropped": 0,
+    "wish": 32,
+    "collect": 0,
+    "doing": 1
+  },
+  "id": 538296,
+  "eps": 0,
+  "meta_tags": [
+    "日本",
+    "漫画改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

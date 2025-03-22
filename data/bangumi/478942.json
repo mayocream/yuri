@@ -1,0 +1,120 @@
+{
+  "date": "2024-02-23",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/83/9c/478942_9I0S9.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/83/9c/478942_9I0S9.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/83/9c/478942_9I0S9.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/83/9c/478942_9I0S9.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/83/9c/478942_9I0S9.jpg"
+  },
+  "summary": "In Season One of The Second Best Hospital in the Galaxy, doctors Sleech and Klak take on a highly dangerous and potentially groundbreaking case and, in doing so, put existence itself in jeopardy. Although considering their dismal personal lives, oblivion might be an improvement.",
+  "name": "The Second Best Hospital in the Galaxy",
+  "name_cn": "银河系第二好医院",
+  "tags": [
+    {
+      "name": "轻小说改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "欧美",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "科幻",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "银河系第二好医院"
+    },
+    {
+      "key": "话数",
+      "value": "8"
+    },
+    {
+      "key": "放送开始",
+      "value": "2024年2月23日"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 3,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 7.3
+  },
+  "total_episodes": 8,
+  "collection": {
+    "on_hold": 4,
+    "dropped": 6,
+    "wish": 7,
+    "collect": 6,
+    "doing": 1
+  },
+  "id": 478942,
+  "eps": 8,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

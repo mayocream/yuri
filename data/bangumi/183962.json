@@ -1,0 +1,90 @@
+{
+  "date": "2012-09-30",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/95/b9/183962_zpiqY.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/95/b9/183962_zpiqY.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/95/b9/183962_zpiqY.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/95/b9/183962_zpiqY.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/95/b9/183962_zpiqY.jpg"
+  },
+  "summary": "日本同人自制动画,以MONOLITH的歌曲为原型的动画,完成度相当之高,讲述了某日越过镜子对一位女性一见钟情的高中女生宫子的狂气恋爱故事。",
+  "name": "宫子",
+  "name_cn": "宫子",
+  "tags": [
+    {
+      "name": "百合",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "国产",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "宫子"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Miyako"
+        },
+        {
+          "v": "自主制作アニメ【宮子】"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "放送开始",
+      "value": "2012-09-30"
+    },
+    {
+      "key": "播放电视台",
+      "value": "youtube"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 2,
+      "7": 1,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6.8
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 1,
+    "dropped": 4,
+    "wish": 8,
+    "collect": 6,
+    "doing": 0
+  },
+  "id": 183962,
+  "eps": 1,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

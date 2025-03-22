@@ -37,4 +37,7 @@ yarn-error.*
 
 app-example
 
-content/images/
+
+# Added by cargo
+
+/target

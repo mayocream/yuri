@@ -1,0 +1,220 @@
+{
+  "date": null,
+  "platform": "剧场版",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/6d/5b/362551_586yW.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/6d/5b/362551_586yW.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/6d/5b/362551_586yW.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/6d/5b/362551_586yW.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/6d/5b/362551_586yW.jpg"
+  },
+  "summary": "",
+  "name": "魔法使いの夜",
+  "name_cn": "魔法使之夜",
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 197,
+      "total_cont": 0
+    },
+    {
+      "name": "ufotable",
+      "count": 184,
+      "total_cont": 0
+    },
+    {
+      "name": "Type-Moon",
+      "count": 154,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 105,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法使いの夜",
+      "count": 88,
+      "total_cont": 0
+    },
+    {
+      "name": "GAL改",
+      "count": 79,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "映画",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "待上映",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "神作",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "奈须蘑菇",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "奈须きのこ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "游改",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "电影",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "抱着你的原神溺死吧",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "成熟",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "骨科",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "无法预测的命运之舞台",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小山广和",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "朦胧",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "魔法使之夜"
+    },
+    {
+      "key": "上映年度",
+      "value": "*"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://mahoyo-movie.com/"
+    },
+    {
+      "key": "Copyright",
+      "value": "©奈須きのこ・TYPE-MOON / アニプレックス・ノーツ・ufotable"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 25,
+    "count": {
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 1,
+      "7": 1,
+      "8": 4,
+      "9": 6,
+      "10": 11
+    },
+    "score": 8.4
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 21,
+    "dropped": 4,
+    "wish": 1515,
+    "collect": 34,
+    "doing": 27
+  },
+  "id": 362551,
+  "eps": 0,
+  "meta_tags": [
+    "剧场版",
+    "游戏改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

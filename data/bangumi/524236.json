@@ -1,0 +1,141 @@
+{
+  "date": null,
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/15/dd/524236_TE8VB.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/15/dd/524236_TE8VB.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/15/dd/524236_TE8VB.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/15/dd/524236_TE8VB.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/15/dd/524236_TE8VB.jpg"
+  },
+  "summary": "",
+  "name": "雨夜の月",
+  "name_cn": "雨夜之月",
+  "tags": [
+    {
+      "name": "百合",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "恋爱",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "公司未公布",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未开播",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "残疾",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "雨夜之月"
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "原作",
+      "value": "くずしろ"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 0,
+    "wish": 81,
+    "collect": 0,
+    "doing": 4
+  },
+  "id": 524236,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "漫画改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

@@ -1,0 +1,191 @@
+{
+  "date": "1997-07-25",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/db/7c/78076_rKEdI.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/db/7c/78076_rKEdI.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/db/7c/78076_rKEdI.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/db/7c/78076_rKEdI.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/db/7c/78076_rKEdI.jpg"
+  },
+  "summary": "吉田是一个出众的女孩，高挑的身材、迷人的五官、还有那巨大的乳……一直是男生崇拜的对象。吉田一直认为自己是喜欢男生的，至少在遇见转学生山田之前，她一直都是这么认为的。山田是一个很可爱的女生，身高只有150cm，虽然上高中了，却总是让人误会她是小学生。经过一番挣扎后，吉田终于确认了自己的感情。于是她将不择手段地把山田追到手！",
+  "name": "HEN",
+  "name_cn": "变",
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "里番",
+      "count": 24,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "梅津泰臣",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "1997",
+      "count": 15,
+      "total_cont": 0
+    },
+    {
+      "name": "奥浩哉",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "GroupTac",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日番",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "独立ova",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1990s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "肉",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "4分",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1997年7月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "BG",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "R18",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "グループ・タック",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "其他",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "变"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Strange Love"
+        },
+        {
+          "v": "陌生的爱"
+        },
+        {
+          "v": "不靠谱的爱"
+        },
+        {
+          "v": "奇怪的爱"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "2"
+    },
+    {
+      "key": "发售日",
+      "value": "1997年7月25日"
+    },
+    {
+      "key": "导演",
+      "value": "鈴木大司"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 44,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 5,
+      "4": 6,
+      "5": 12,
+      "6": 9,
+      "7": 6,
+      "8": 2,
+      "9": 1,
+      "10": 2
+    },
+    "score": 5.5
+  },
+  "total_episodes": 2,
+  "collection": {
+    "on_hold": 11,
+    "dropped": 12,
+    "wish": 83,
+    "collect": 70,
+    "doing": 6
+  },
+  "id": 78076,
+  "eps": 2,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

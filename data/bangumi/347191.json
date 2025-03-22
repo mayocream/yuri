@@ -1,0 +1,205 @@
+{
+  "date": null,
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/88/6e/347191_mxGGL.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/88/6e/347191_mxGGL.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/88/6e/347191_mxGGL.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/88/6e/347191_mxGGL.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/88/6e/347191_mxGGL.jpg"
+  },
+  "summary": "",
+  "name": "Fate/kaleid liner プリズマ☆イリヤ 続編",
+  "name_cn": "Fate/kaleid liner 魔法少女☆伊莉雅 续篇",
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 28,
+      "total_cont": 0
+    },
+    {
+      "name": "Fate",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女☆伊莉雅",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "Type-Moon",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "SILVERLINK.",
+      "count": 16,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女伊莉雅",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "大沼心",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "饼",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "表番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "水瀬葉月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "アニメ映画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "表内",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "井上堅二",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "无聊",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "Fate/kaleid liner 魔法少女☆伊莉雅 续篇"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 23,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 7,
+      "7": 9,
+      "8": 3,
+      "9": 1,
+      "10": 2
+    },
+    "score": 6.9
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 9,
+    "dropped": 4,
+    "wish": 345,
+    "collect": 88,
+    "doing": 16
+  },
+  "id": 347191,
+  "eps": 0,
+  "meta_tags": [],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

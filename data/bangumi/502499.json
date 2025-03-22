@@ -1,0 +1,152 @@
+{
+  "date": "2025-01-01",
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/f4/fc/502499_ozNs3.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/f4/fc/502499_ozNs3.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/f4/fc/502499_ozNs3.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/f4/fc/502499_ozNs3.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/f4/fc/502499_ozNs3.jpg"
+  },
+  "summary": "AtsushiNishigori × #CloverWorks\r\nOriginal Animation Project #GROTESQUE（仮）\r\n2025 Coming Soon\r\n\r\nX：@grotesqqque",
+  "name": "GROTESQUE（仮）",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "CloverWorks",
+      "count": 77,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 67,
+      "total_cont": 0
+    },
+    {
+      "name": "锦织敦史",
+      "count": 52,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 50,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "錦織敦史",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "福島祐一",
+      "count": 17,
+      "total_cont": 0
+    },
+    {
+      "name": "剧场版",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "JOEN",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2025年",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "怪诞",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "TVA",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "名称",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "上映年度",
+      "value": "2025年"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 2
+    },
+    "score": 10
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 4,
+    "dropped": 2,
+    "wish": 408,
+    "collect": 1,
+    "doing": 6
+  },
+  "id": 502499,
+  "eps": 0,
+  "meta_tags": [
+    "原创"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

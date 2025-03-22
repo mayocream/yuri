@@ -1,0 +1,184 @@
+{
+  "date": "2024-05-22",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/d6/c5/496772_1J2UG.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/d6/c5/496772_1J2UG.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/d6/c5/496772_1J2UG.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/d6/c5/496772_1J2UG.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/d6/c5/496772_1J2UG.jpg"
+  },
+  "summary": "極度のあがり症＆コミュ症のため、まともな友人がいたことのない奈川 芳野（ながわ よしの）は、高校入学早々にも同じ失敗を繰り返し、トイレに逃げ込んでしまう……。\r\nだがトイレの個室で芳野が思わず口ずさんだ歌を同級生・白瀬 双葉（しらせ ふたば）が聴いていて大共感！\r\n新たに個性的な仲間も次々現れ、芳野は彼女たちとパンクロックバンドを結成することに──!!\r\n4コマ漫画（著：なじみ）を原作に、登場キャラクターたち4人がはちゃめちゃに暴れる！？",
+  "name": "ガールズフィスト!!!! GT",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "泡面",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "STUDIOeffort",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2025",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "GIRLS' F1ST!!!! GT"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "13"
+    },
+    {
+      "key": "放送开始",
+      "value": "2024年5月22日"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://girlsf1stgt.com"
+    },
+    {
+      "key": "在线播放平台",
+      "value": "YouTube、bilibili"
+    },
+    {
+      "key": "导演",
+      "value": "桂雅明"
+    },
+    {
+      "key": "播放平台",
+      "value": "Youtube"
+    },
+    {
+      "key": "制作协力",
+      "value": "EARLY WING、SUZAKU label、Shape Eins"
+    },
+    {
+      "key": "音响监督",
+      "value": "福井香織"
+    },
+    {
+      "key": "音乐制作人",
+      "value": "根本健一"
+    },
+    {
+      "key": "动画制片人",
+      "value": "長尾修平"
+    },
+    {
+      "key": "音響エンジニア",
+      "value": "道鎭麻友、大野遥"
+    },
+    {
+      "key": "音響スタジオ",
+      "value": "STUDIO effort"
+    },
+    {
+      "key": "出版制片人",
+      "value": "高橋輝"
+    },
+    {
+      "key": "制片人",
+      "value": "Eric.Chu"
+    },
+    {
+      "key": "制作担当",
+      "value": "小澤美智雄、佐藤栞"
+    },
+    {
+      "key": "総合マネージメント",
+      "value": "さとう龍乙"
+    },
+    {
+      "key": "総合サポート",
+      "value": "中村有来"
+    },
+    {
+      "key": "链接",
+      "value": [
+        {
+          "k": "YouTube",
+          "v": "https://www.youtube.com/playlist?list=PLkAy04H6SulMUAqtF3e07Ws5MjIS5m7sQ"
+        },
+        {
+          "k": "bilibili",
+          "v": "https://space.bilibili.com/3546775937878476"
+        }
+      ]
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 1,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "total_episodes": 13,
+  "collection": {
+    "on_hold": 3,
+    "dropped": 5,
+    "wish": 14,
+    "collect": 3,
+    "doing": 7
+  },
+  "id": 496772,
+  "eps": 13,
+  "meta_tags": [
+    "日本",
+    "漫画改",
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

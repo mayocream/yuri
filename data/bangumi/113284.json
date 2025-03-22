@@ -1,0 +1,92 @@
+{
+  "date": null,
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/23/0a/113284_bAbBX.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/23/0a/113284_bAbBX.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/23/0a/113284_bAbBX.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/23/0a/113284_bAbBX.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/23/0a/113284_bAbBX.jpg"
+  },
+  "summary": "",
+  "name": "CosmicBreak: Sacrifice",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "短片",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "2010",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "ONA",
+      "count": 2,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "上映年度",
+      "value": "2010-09-09"
+    },
+    {
+      "key": "片长",
+      "value": "10分钟"
+    },
+    {
+      "key": "其他",
+      "value": "web放送"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 2,
+      "6": 2,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5.7
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 1,
+    "dropped": 6,
+    "wish": 15,
+    "collect": 11,
+    "doing": 0
+  },
+  "id": 113284,
+  "eps": 1,
+  "meta_tags": [],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

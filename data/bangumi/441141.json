@@ -1,0 +1,111 @@
+{
+  "date": "2023-07-27",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/44/0f/441141_5LutT.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/44/0f/441141_5LutT.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/44/0f/441141_5LutT.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/44/0f/441141_5LutT.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/44/0f/441141_5LutT.jpg"
+  },
+  "summary": "",
+  "name": "Harley Quinn Season 4",
+  "name_cn": "哈莉·奎茵 第四季",
+  "tags": [
+    {
+      "name": "欧美",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "电视剧",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "哈莉·奎茵 第四季"
+    },
+    {
+      "key": "话数",
+      "value": "10"
+    },
+    {
+      "key": "放送开始",
+      "value": "2023年7月27日"
+    },
+    {
+      "key": "放送星期",
+      "value": "星期四"
+    },
+    {
+      "key": "播放电视网",
+      "value": "MAX"
+    },
+    {
+      "key": "企画",
+      "value": "Justin Halpern、Patrick Schumacker、Dean Lorey"
+    },
+    {
+      "key": "製作",
+      "value": "Yes, Norman Productions、Delicious Non-Sequitur、DC Studios、Warner Bros. Animation"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 13,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 5,
+      "7": 3,
+      "8": 2,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.7
+  },
+  "total_episodes": 10,
+  "collection": {
+    "on_hold": 4,
+    "dropped": 6,
+    "wish": 9,
+    "collect": 17,
+    "doing": 2
+  },
+  "id": 441141,
+  "eps": 10,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

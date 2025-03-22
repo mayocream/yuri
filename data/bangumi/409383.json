@@ -1,0 +1,134 @@
+{
+  "date": null,
+  "platform": "OVA",
+  "images": {
+    "small": "",
+    "grid": "",
+    "large": "",
+    "medium": "",
+    "common": ""
+  },
+  "summary": "",
+  "name": "邪神ちゃんドロップキック 続編",
+  "name_cn": "邪神与厨二病少女 续篇",
+  "tags": [
+    {
+      "name": "OVA",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "邪神与厨二病少女",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "NOMAD",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "表外",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "邪神与厨二病少女 续篇"
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "发售日",
+      "value": "*"
+    },
+    {
+      "key": "原作",
+      "value": "ユキヲ（COMICメテオ連載）"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 0,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 0
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 4,
+    "dropped": 1,
+    "wish": 133,
+    "collect": 10,
+    "doing": 9
+  },
+  "id": 409383,
+  "eps": 0,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

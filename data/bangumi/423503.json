@@ -1,0 +1,243 @@
+{
+  "date": "2023-03-31",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/bc/e1/423503_vTMmI.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/bc/e1/423503_vTMmI.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/bc/e1/423503_vTMmI.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/bc/e1/423503_vTMmI.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/bc/e1/423503_vTMmI.jpg"
+  },
+  "summary": "VRSNSが一般化された近未来の日本で、女子高生“かなた”は、ふとした拍子に旧文明を模したワールドに閉じ込められてしまう。 現地の人々と関わりながら、旧文明のワールドに馴染み始めた頃、見知ったゲームのモンスターが人々を襲い始める。 人々を守るため、自分のゲームデータと引き換えに、現実世界に戻る決意をするかなた。 無事、現実世界に戻ることが出来たかなたは、自分が過去の世界にタイムスリップしていたことを知る。",
+  "name": "もしメタ -もし女子高生がメタバースで巫女になったら-",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "WEB",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "2023",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年3月",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "待上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "スタジオエル",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2023年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "空",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "短片",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Moshi Meta: Moshi Joshikousei ga Metaverse de Miko ni Nattara"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "放送开始",
+      "value": "2023年3月31日"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://animenotane.jp/anim_info/moshi-meta/"
+    },
+    {
+      "key": "其他",
+      "value": "あにめのたね2023"
+    },
+    {
+      "key": "Copyright",
+      "value": "© 2023 STUDIO ELLE Co., Ltd. / 文化庁 あにめのたね2023"
+    },
+    {
+      "key": "导演",
+      "value": "江上雅之"
+    },
+    {
+      "key": "人物设定",
+      "value": "丸山楓"
+    },
+    {
+      "key": "原案",
+      "value": "江上雅之"
+    },
+    {
+      "key": "脚本",
+      "value": "江上雅之"
+    },
+    {
+      "key": "分镜",
+      "value": "江上雅之"
+    },
+    {
+      "key": "作画监督",
+      "value": "丸山楓"
+    },
+    {
+      "key": "作画指导顾问",
+      "value": "アベ正己"
+    },
+    {
+      "key": "原画",
+      "value": "[中坚]樋口純一、[新人]大野綾希、新井佑弥、高橋美生"
+    },
+    {
+      "key": "补间动画指导顾问",
+      "value": "磯部智子"
+    },
+    {
+      "key": "补间动画",
+      "value": "榎本佳祐、田中里歩、永田結花、藤井勇雅、星野栞"
+    },
+    {
+      "key": "动画检查",
+      "value": "加藤晶久"
+    },
+    {
+      "key": "美术监督",
+      "value": "筒井典子"
+    },
+    {
+      "key": "美术设计",
+      "value": "筒井典子"
+    },
+    {
+      "key": "色彩设计",
+      "value": "真水由貴"
+    },
+    {
+      "key": "色彩指定",
+      "value": "真水由貴"
+    },
+    {
+      "key": "摄影监督",
+      "value": "田村翔"
+    },
+    {
+      "key": "2Dworks",
+      "value": "田村翔"
+    },
+    {
+      "key": "剪辑",
+      "value": "丹彩子、大関悠"
+    },
+    {
+      "key": "音乐制作人",
+      "value": "田井モトヨシ"
+    },
+    {
+      "key": "音乐",
+      "value": "田井千里"
+    },
+    {
+      "key": "音乐制作",
+      "value": "ロードアンドスカイ・オーガニゼイション、dottedline"
+    },
+    {
+      "key": "音响监督",
+      "value": "鈴木里美"
+    },
+    {
+      "key": "音效",
+      "value": "今野康之"
+    },
+    {
+      "key": "录音",
+      "value": "录音调整：菊地一之"
+    },
+    {
+      "key": "录音助理",
+      "value": "林瑞希、白石拓幹"
+    },
+    {
+      "key": "音响",
+      "value": "クープ(ピーズスタジオ)"
+    },
+    {
+      "key": "制片人",
+      "value": "西嶋真吾"
+    },
+    {
+      "key": "助理制片人",
+      "value": "釋迦郡卓"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 4,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 4,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 6
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 3,
+    "wish": 15,
+    "collect": 10,
+    "doing": 1
+  },
+  "id": 423503,
+  "eps": 1,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

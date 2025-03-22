@@ -1,0 +1,246 @@
+{
+  "date": "2009-12-18",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/84/85/3495_c0iIg.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/84/85/3495_c0iIg.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/84/85/3495_c0iIg.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/84/85/3495_c0iIg.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/84/85/3495_c0iIg.jpg"
+  },
+  "summary": "秋日天空，或名秋色之空（あきそら），是日本漫画家糸杉柾宏的作品，双月刊Champion RED Ichigo第9期（2008年9月）开始连载，每期连载2话。单行本由秋田书店发行。",
+  "name": "あきそら",
+  "name_cn": "秋日天空 OAD",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 371,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 324,
+      "total_cont": 0
+    },
+    {
+      "name": "姐弟恋",
+      "count": 250,
+      "total_cont": 0
+    },
+    {
+      "name": "2009",
+      "count": 160,
+      "total_cont": 0
+    },
+    {
+      "name": "乱伦",
+      "count": 152,
+      "total_cont": 0
+    },
+    {
+      "name": "工口",
+      "count": 149,
+      "total_cont": 0
+    },
+    {
+      "name": "无底线一般向",
+      "count": 131,
+      "total_cont": 0
+    },
+    {
+      "name": "一般向",
+      "count": 124,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 83,
+      "total_cont": 0
+    },
+    {
+      "name": "下限",
+      "count": 69,
+      "total_cont": 0
+    },
+    {
+      "name": "OAD",
+      "count": 61,
+      "total_cont": 0
+    },
+    {
+      "name": "一般向你妹",
+      "count": 51,
+      "total_cont": 0
+    },
+    {
+      "name": "HoodsEntertainment",
+      "count": 49,
+      "total_cont": 0
+    },
+    {
+      "name": "無碼",
+      "count": 38,
+      "total_cont": 0
+    },
+    {
+      "name": "秋色",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 31,
+      "total_cont": 0
+    },
+    {
+      "name": "akisora",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "全年龄",
+      "count": 25,
+      "total_cont": 0
+    },
+    {
+      "name": "高桥丈夫",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "肉番",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "下限帝",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "姐控",
+      "count": 18,
+      "total_cont": 0
+    },
+    {
+      "name": "天空",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "姐弟",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "2009年12月",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "强势姐姐",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "纯爱",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "高橋丈夫",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "秋色之空",
+      "count": 7,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "秋日天空 OAD"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "秋日天空"
+        },
+        {
+          "v": "秋色天空"
+        },
+        {
+          "v": "秋色之空"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "发售日",
+      "value": "2009年12月18日"
+    },
+    {
+      "key": "原作",
+      "value": "糸杉柾宏"
+    },
+    {
+      "key": "导演",
+      "value": "高橋丈夫"
+    },
+    {
+      "key": "脚本",
+      "value": "花田十輝"
+    },
+    {
+      "key": "人物设定",
+      "value": "黒田和也"
+    }
+  ],
+  "rating": {
+    "rank": 5306,
+    "total": 1217,
+    "count": {
+      "1": 4,
+      "2": 7,
+      "3": 7,
+      "4": 39,
+      "5": 158,
+      "6": 433,
+      "7": 385,
+      "8": 134,
+      "9": 23,
+      "10": 27
+    },
+    "score": 6.4
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 56,
+    "dropped": 33,
+    "wish": 525,
+    "collect": 2085,
+    "doing": 36
+  },
+  "id": 3495,
+  "eps": 1,
+  "meta_tags": [
+    "OVA",
+    "漫画改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

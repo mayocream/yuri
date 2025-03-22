@@ -1,0 +1,139 @@
+{
+  "date": "1997-02-14",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/3c/72/90244_4IaIl.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/3c/72/90244_4IaIl.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/3c/72/90244_4IaIl.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/3c/72/90244_4IaIl.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/3c/72/90244_4IaIl.jpg"
+  },
+  "summary": "",
+  "name": "微熱症候群",
+  "name_cn": "微热症候群",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 19,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 9,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "保健室へようこそ",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "无修",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "1997",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "无条目",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "无码",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "R18",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "[H]",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "步兵裡番",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "微热症候群"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Binetsu Shoukougun"
+        },
+        {
+          "v": "Slight Fever Syndrome"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "2"
+    },
+    {
+      "key": "发售日",
+      "value": "1997年2月14日"
+    },
+    {
+      "key": "开始",
+      "value": "1997年2月14日"
+    },
+    {
+      "key": "结束",
+      "value": "1998年1月23日"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 22,
+    "count": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 9,
+      "6": 3,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 4.2
+  },
+  "total_episodes": 2,
+  "collection": {
+    "on_hold": 8,
+    "dropped": 9,
+    "wish": 25,
+    "collect": 42,
+    "doing": 4
+  },
+  "id": 90244,
+  "eps": 2,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

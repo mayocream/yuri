@@ -1,0 +1,195 @@
+{
+  "date": null,
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/82/15/363612_On6wg.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/82/15/363612_On6wg.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/82/15/363612_On6wg.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/82/15/363612_On6wg.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/82/15/363612_On6wg.jpg"
+  },
+  "summary": "本条目是一个沙盒，可以用于尝试bgm功能。\r\n\r\n普通维基人可以随意编辑条目信息以及相关关联查看编辑效果，但是请不要完全删除沙盒说明并且不要关联非沙盒条目/人物/角色。\r\n\r\nhttps://bgm.tv/group/topic/366812#post_1923517\r\n",
+  "name": "两个动画沙盒条目不显多余吗?因为要用来测试条目关联啊",
+  "name_cn": "沙盒",
+  "tags": [
+    {
+      "name": "沙盒",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "开放世界",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "旧物",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "冒险",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "感觉不如原神",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2021年12月",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2021.12.26",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "Animation",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "GAL改",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "子供向",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "2分",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "沙盒"
+    },
+    {
+      "key": "话数",
+      "value": "9999"
+    },
+    {
+      "key": "发售日",
+      "value": [
+        {
+          "v": "2225-01-01"
+        },
+        {
+          "v": "2022-02-02"
+        }
+      ]
+    },
+    {
+      "key": "开始",
+      "value": "1226-05-15"
+    },
+    {
+      "key": "website",
+      "value": [
+        {
+          "v": "https://bangumi.tv/subject/114514"
+        },
+        {
+          "v": "http://bgm.tv/"
+        },
+        {
+          "v": "https://bangumi.tv/"
+        }
+      ]
+    },
+    {
+      "key": "平台",
+      "value": [
+        {
+          "v": "爱土豆"
+        },
+        {
+          "v": "nicobili"
+        },
+        {
+          "v": "网费"
+        },
+        {
+          "v": "迪土尼-"
+        },
+        {
+          "v": "龟壳"
+        },
+        {
+          "v": "Xbox Series S"
+        },
+        {
+          "v": "Xbox Series X"
+        },
+        {
+          "v": "Xbox Series X/S"
+        },
+        {
+          "k": "Windows",
+          "v": "PC"
+        },
+        {
+          "k": "Xbox Series X",
+          "v": "S"
+        }
+      ]
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 11,
+    "count": {
+      "1": 3,
+      "2": 3,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 1,
+      "7": 1,
+      "8": 0,
+      "9": 0,
+      "10": 2
+    },
+    "score": 4.3
+  },
+  "total_episodes": 20,
+  "collection": {
+    "on_hold": 3,
+    "dropped": 10,
+    "wish": 6,
+    "collect": 18,
+    "doing": 1
+  },
+  "id": 363612,
+  "eps": 9999,
+  "meta_tags": [],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

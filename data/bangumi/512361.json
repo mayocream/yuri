@@ -1,0 +1,237 @@
+{
+  "date": null,
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/db/4a/512361_K53ZI.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/db/4a/512361_K53ZI.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/db/4a/512361_K53ZI.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/db/4a/512361_K53ZI.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/db/4a/512361_K53ZI.jpg"
+  },
+  "summary": "叶曦是一个普通的不能再普通的女孩子，无论学什么她不是最差的，但永远不是最好，透明的就像空气一样，毫无存在感。直到她遇到了李照……\r\n李照有自己的目标，她想成为顶级服装设计师，从小开始，她走的每一步都是往自己的梦想靠近。\r\n这是一群因服装结缘的少女们追梦故事，偶尔夹杂一些轻松沙雕日常！！",
+  "name": "呼唤少女",
+  "name_cn": "呼唤少女",
+  "tags": [
+    {
+      "name": "国产",
+      "count": 61,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百",
+      "count": 43,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 29,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 27,
+      "total_cont": 0
+    },
+    {
+      "name": "四次方动画",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "国产动画",
+      "count": 7,
+      "total_cont": 0
+    },
+    {
+      "name": "轻百合",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "萌",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "国创",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "□国产",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "中国",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "邓小冰",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "小小的期待一下",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未开播",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "废萌",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "垃圾",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "治愈",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "异世界",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "萌豚饲料",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "呼唤少女"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "Call Up Girls"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "动画制作",
+      "value": "四次方动画"
+    },
+    {
+      "key": "制片人",
+      "value": "刘伟源"
+    },
+    {
+      "key": "导演",
+      "value": "邓小冰"
+    },
+    {
+      "key": "编剧",
+      "value": "六五一"
+    },
+    {
+      "key": "演出",
+      "value": "袁可"
+    },
+    {
+      "key": "原作",
+      "value": "罗克 ROK"
+    },
+    {
+      "key": "主题歌演出",
+      "value": "hanser"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 3,
+    "count": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.3
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 6,
+    "dropped": 4,
+    "wish": 482,
+    "collect": 0,
+    "doing": 15
+  },
+  "id": 512361,
+  "eps": 0,
+  "meta_tags": [
+    "漫画改",
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

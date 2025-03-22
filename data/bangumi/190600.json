@@ -1,0 +1,220 @@
+{
+  "date": null,
+  "platform": "其他",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/e9/46/190600_G8Xgw.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/e9/46/190600_G8Xgw.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/e9/46/190600_G8Xgw.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/e9/46/190600_G8Xgw.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/e9/46/190600_G8Xgw.jpg"
+  },
+  "summary": "ナナシス待望の初アニメーションMVは、新キャラクターも登場する総尺10分に及ぶ短編MV作品。\r\nテーマとなる新曲、777☆SISTERS「ハルカゼ〜You were here〜」を収録したCDに、アニメーションMVが収録されたBlu-rayがセットとなった特殊仕様。\r\n初回限定メモリアルボックスには、MVストーリーの前日譚を描く総監督・茂木伸太郎「書き下ろし小説」、\r\nキャラクター設定画や美術設定画、アーティスト＆監督インタビューなどを含めた「公式記録集」などの豪華特典満載！",
+  "name": "t7s Longing for summer Again And Again ～ハルカゼ～",
+  "name_cn": "",
+  "tags": [
+    {
+      "name": "偶像",
+      "count": 5,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "chiptune",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2017",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "游戏改编",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "2017年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "待二周目",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "interested",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "唱跳rap",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "IDOL",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "校园",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "音乐",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "改编",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日常",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "TV",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "发售",
+      "value": "2017年4月19日"
+    },
+    {
+      "key": "片长",
+      "value": "10分"
+    },
+    {
+      "key": "官方网站",
+      "value": [
+        {
+          "v": "https://t7s.jp/release/cd/14.html/"
+        },
+        {
+          "v": "https://www.jvcmusic.co.jp/t7s/1159/"
+        }
+      ]
+    },
+    {
+      "key": "原作",
+      "value": "「Tokyo 7th シスターズ」 / Donuts"
+    },
+    {
+      "key": "导演",
+      "value": "茂木伸太郎"
+    },
+    {
+      "key": "脚本",
+      "value": "茂木伸太郎"
+    },
+    {
+      "key": "分镜",
+      "value": "茂木伸太郎"
+    },
+    {
+      "key": "人物原案",
+      "value": "MKS"
+    },
+    {
+      "key": "人物设定",
+      "value": "國行由里江"
+    },
+    {
+      "key": "作画监督",
+      "value": "國行由里江、高野やよい"
+    },
+    {
+      "key": "美术监督",
+      "value": "市倉敬"
+    },
+    {
+      "key": "色彩设计",
+      "value": "忽那亜実"
+    },
+    {
+      "key": "摄影监督",
+      "value": "小池真由子"
+    },
+    {
+      "key": "音响监督",
+      "value": "茂木伸太郎"
+    },
+    {
+      "key": "音乐制作",
+      "value": "マジックカプセル"
+    },
+    {
+      "key": "音乐",
+      "value": "岡ナオキ"
+    },
+    {
+      "key": "动画制作",
+      "value": "チップチューン"
+    },
+    {
+      "key": "Copyright",
+      "value": "©2014 Donuts"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 8,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1,
+      "6": 3,
+      "7": 3,
+      "8": 0,
+      "9": 0,
+      "10": 1
+    },
+    "score": 6.8
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 2,
+    "dropped": 3,
+    "wish": 44,
+    "collect": 14,
+    "doing": 0
+  },
+  "id": 190600,
+  "eps": 0,
+  "meta_tags": [],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

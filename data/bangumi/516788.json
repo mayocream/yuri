@@ -1,0 +1,237 @@
+{
+  "date": null,
+  "platform": "TV",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/11/f5/516788_tS9hh.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/11/f5/516788_tS9hh.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/11/f5/516788_tS9hh.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/11/f5/516788_tS9hh.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/11/f5/516788_tS9hh.jpg"
+  },
+  "summary": "",
+  "name": "魔法少女にあこがれて 第2期",
+  "name_cn": "梦想成为魔法少女 第二季",
+  "tags": [
+    {
+      "name": "TV",
+      "count": 35,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 30,
+      "total_cont": 0
+    },
+    {
+      "name": "漫画改",
+      "count": 26,
+      "total_cont": 0
+    },
+    {
+      "name": "未定档",
+      "count": 22,
+      "total_cont": 0
+    },
+    {
+      "name": "卖肉",
+      "count": 20,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女",
+      "count": 13,
+      "total_cont": 0
+    },
+    {
+      "name": "奇幻",
+      "count": 12,
+      "total_cont": 0
+    },
+    {
+      "name": "梦想成为魔法少女",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "漫改",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "战斗",
+      "count": 10,
+      "total_cont": 0
+    },
+    {
+      "name": "沙雕",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "未确定",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "日本",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "旭production",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "未开播",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "夢想成為魔法少女",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "待上映",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "20年代",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "小野中彰大",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "公司未公布",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "◇限制级",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "性内容",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "魔法少女にあこがれて",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "续作",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "逆天",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "R15",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "肉番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "超能力",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "肉",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "梦想成为魔法少女 第二季"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "憧憬成为魔法少女 第二季"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "*"
+    },
+    {
+      "key": "放送开始",
+      "value": "*"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://mahoako-anime.com/"
+    },
+    {
+      "key": "Copyright",
+      "value": "©小野中彰大・竹書房／魔法少女にあこがれて製作委員会"
+    },
+    {
+      "key": "原作",
+      "value": "小野中彰大（「魔法少⼥にあこがれて」／竹書房刊）"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 6,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 1,
+      "10": 5
+    },
+    "score": 9.8
+  },
+  "total_episodes": 0,
+  "collection": {
+    "on_hold": 8,
+    "dropped": 1,
+    "wish": 482,
+    "collect": 3,
+    "doing": 14
+  },
+  "id": 516788,
+  "eps": 0,
+  "meta_tags": [
+    "TV",
+    "日本",
+    "漫画改"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

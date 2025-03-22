@@ -1,0 +1,205 @@
+{
+  "date": "1985-12-25",
+  "platform": "OVA",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/17/b5/102007_8lbPp.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/17/b5/102007_8lbPp.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/17/b5/102007_8lbPp.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/17/b5/102007_8lbPp.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/17/b5/102007_8lbPp.jpg"
+  },
+  "summary": "    宇宙警備員少女カップルの、愛と冒険。\r\n    内容は『ダーティペア』のパロディであり、原案とデザインを担当した計奈恵は後に『ダーティペア』のゲームブックの挿絵も担当している。なお、タイトルと設定の一部は『スタートレック』のパロディである。 ",
+  "name": "くりいむレモン パート10 STAR TRAP",
+  "name_cn": "奶油柠檬 第十部分 STAR TRAP",
+  "tags": [
+    {
+      "name": "里番",
+      "count": 33,
+      "total_cont": 0
+    },
+    {
+      "name": "OVA",
+      "count": 21,
+      "total_cont": 0
+    },
+    {
+      "name": "1985",
+      "count": 14,
+      "total_cont": 0
+    },
+    {
+      "name": "奶油柠檬",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 11,
+      "total_cont": 0
+    },
+    {
+      "name": "搞笑",
+      "count": 6,
+      "total_cont": 0
+    },
+    {
+      "name": "[Yuri:Caution]",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "[H]",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "原创",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "R18",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "A.P.P.P.",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "坂本郷",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "AIMAIMOKO",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "赛璐珞",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "及川ひとみ",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1980-1989",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "SuperStuf",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "原创里番",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "どうが",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "成人动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "80s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "萝卜",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "8",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "扶她",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1980s",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "1985年",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "日本动画",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "剧情里番",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "奶油柠檬 第十部分 STAR TRAP"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "发售日",
+      "value": "1985年12月25日"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 37,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 5,
+      "5": 11,
+      "6": 11,
+      "7": 7,
+      "8": 1,
+      "9": 0,
+      "10": 1
+    },
+    "score": 5.7
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 12,
+    "dropped": 13,
+    "wish": 30,
+    "collect": 67,
+    "doing": 4
+  },
+  "id": 102007,
+  "eps": 1,
+  "meta_tags": [
+    "OVA"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": true,
+  "type": 2
+}

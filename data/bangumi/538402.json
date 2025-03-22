@@ -1,0 +1,89 @@
+{
+  "date": "2025-09-11",
+  "platform": "剧场版",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/45/6a/538402_35dI5.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/45/6a/538402_35dI5.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/45/6a/538402_35dI5.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/45/6a/538402_35dI5.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/45/6a/538402_35dI5.jpg"
+  },
+  "summary": "",
+  "name": "Lesbian Space Princess",
+  "name_cn": "女同太空公主",
+  "tags": [
+    {
+      "name": "剧场版",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "2024",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "欧美",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "女同太空公主"
+    },
+    {
+      "key": "上映年度",
+      "value": "2025年9月11日(澳大利亚)"
+    },
+    {
+      "key": "其他",
+      "value": "2024年10月27日(阿德莱德电影节)"
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 2,
+    "count": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "score": 5
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 0,
+    "dropped": 1,
+    "wish": 2,
+    "collect": 2,
+    "doing": 0
+  },
+  "id": 538402,
+  "eps": 1,
+  "meta_tags": [
+    "剧场版"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}

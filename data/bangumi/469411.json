@@ -1,0 +1,153 @@
+{
+  "date": "2010-02-15",
+  "platform": "WEB",
+  "images": {
+    "small": "https://lain.bgm.tv/r/200/pic/cover/l/71/51/469411_4EqvC.jpg",
+    "grid": "https://lain.bgm.tv/r/100/pic/cover/l/71/51/469411_4EqvC.jpg",
+    "large": "https://lain.bgm.tv/pic/cover/l/71/51/469411_4EqvC.jpg",
+    "medium": "https://lain.bgm.tv/r/800/pic/cover/l/71/51/469411_4EqvC.jpg",
+    "common": "https://lain.bgm.tv/r/400/pic/cover/l/71/51/469411_4EqvC.jpg"
+  },
+  "summary": "43名くらいで集まって出来た動画です☆\r\n絵師様、声優様、音楽作成者様、動画編集者様ありがとー☆\r\n\r\n魔理沙がアリスにクッキーを作ってあげる物語です☆",
+  "name": "魔理沙とアリスのクッキー☆kiss",
+  "name_cn": "魔理沙与爱丽丝的饼干接吻",
+  "tags": [
+    {
+      "name": "東方Project",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "風評被害",
+      "count": 4,
+      "total_cont": 0
+    },
+    {
+      "name": "東方聲劇",
+      "count": 3,
+      "total_cont": 0
+    },
+    {
+      "name": "クッキー☆",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "全ての元凶",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "例のアレ",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "屑",
+      "count": 2,
+      "total_cont": 0
+    },
+    {
+      "name": "クッキー",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "東方",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "WEB",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "万恶之源",
+      "count": 1,
+      "total_cont": 0
+    },
+    {
+      "name": "百合",
+      "count": 1,
+      "total_cont": 0
+    }
+  ],
+  "infobox": [
+    {
+      "key": "中文名",
+      "value": "魔理沙与爱丽丝的饼干接吻"
+    },
+    {
+      "key": "别名",
+      "value": [
+        {
+          "v": "クッキー☆"
+        }
+      ]
+    },
+    {
+      "key": "话数",
+      "value": "1"
+    },
+    {
+      "key": "放送开始",
+      "value": "2010年2月15日"
+    },
+    {
+      "key": "官方网站",
+      "value": "https://www.nicovideo.jp/watch/sm9720246"
+    },
+    {
+      "key": "企划",
+      "value": "蓮奈理緒"
+    },
+    {
+      "key": "剧本",
+      "value": "蓮奈理緒"
+    },
+    {
+      "key": "时长",
+      "value": "29:40s"
+    },
+    {
+      "key": "原画",
+      "value": "風瑛なづき、さくらゆづな。（住咲ゆづな）、kyou、べにしゃけ、やとみ、七瀬尚"
+    }
+  ],
+  "rating": {
+    "rank": 0,
+    "total": 10,
+    "count": {
+      "1": 3,
+      "2": 2,
+      "3": 2,
+      "4": 1,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 2
+    },
+    "score": 3.7
+  },
+  "total_episodes": 1,
+  "collection": {
+    "on_hold": 1,
+    "dropped": 1,
+    "wish": 1,
+    "collect": 19,
+    "doing": 0
+  },
+  "id": 469411,
+  "eps": 1,
+  "meta_tags": [
+    "WEB"
+  ],
+  "volumes": 0,
+  "series": false,
+  "locked": false,
+  "nsfw": false,
+  "type": 2
+}
